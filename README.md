@@ -17,7 +17,7 @@ This project provides a multi-year analysis of corporate payroll expenditure acr
 
 ## Dashboard Preview
 
-![Payroll Overview Dashboard](Images/Payroll_Overview_Dashboard.png)
+![Payroll Overview Dashboard](images/Payroll_Overview_Dashboard.png)
 *Figure 1: Main Payroll Overview Dashboard interface in Power BI.*
 
 ---
@@ -31,7 +31,7 @@ This project provides a multi-year analysis of corporate payroll expenditure acr
 ## Data Architecture & Schema
 The data model follows a **Snowflake Schema** design to ensure normalized relationships and high-performance DAX evaluations.
 
-![Data Model Schema](images/data_model_schema.png)
+![Data Model Schema](images/Data_Modelling_SnowFlake_Schema.png)
 *Figure 2: Data Model showing Fact_Payroll linked to normalized Dimension tables.*
 
 * **Fact Table:** `Fact_Payroll` (Transactional payroll metrics, base pay, tax, overtime)
