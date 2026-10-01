@@ -1,0 +1,7 @@
+Band_ID,Band_Name,Experience_Bracket
+B01,Intern / Entry,0-1 Years
+B02,Junior Associate,1-3 Years
+B03,Mid-Level Specialist,3-6 Years
+B04,Senior Specialist,6-10 Years
+B05,Principal Lead,10-15 Years
+B06,Executive / Director,15+ Years

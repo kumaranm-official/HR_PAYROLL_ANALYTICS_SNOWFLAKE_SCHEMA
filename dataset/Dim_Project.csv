@@ -1,0 +1,501 @@
+Project_ID,Project_Name,Delivery_Model,Client_ID
+PRJ_0001,Project Envisioneer Interactive Supply-Chains Platform Migration,Offshore,CLI_0280
+PRJ_0002,Project Incentivize Bricks-And-Clicks E-Services Implementation,Hybrid,CLI_0281
+PRJ_0003,Project Target Turn-Key Initiatives Audit,Offshore,CLI_0356
+PRJ_0004,Project Scale Web-Enabled Systems Automation,Onsite,CLI_0193
+PRJ_0005,Project Drive Transparent Relationships Implementation,Onsite,CLI_0131
+PRJ_0006,Project Evolve Synergistic Schemas Platform Migration,Onsite,CLI_0146
+PRJ_0007,Project Deliver Intuitive Relationships Platform Migration,Hybrid,CLI_0028
+PRJ_0008,Project Visualize Compelling Metrics Audit,Onsite,CLI_0035
+PRJ_0009,Project Enhance Customized E-Markets Audit,Hybrid,CLI_0340
+PRJ_0010,Project Enhance End-To-End Users Automation,Hybrid,CLI_0443
+PRJ_0011,Project Incentivize Transparent Methodologies Transformation,Onsite,CLI_0150
+PRJ_0012,Project Benchmark Global Metrics Automation,Remote,CLI_0119
+PRJ_0013,Project Morph Front-End Supply-Chains Audit,Onsite,CLI_0463
+PRJ_0014,Project Harness 24/7 Infrastructures Optimization,Remote,CLI_0444
+PRJ_0015,Project Deploy Next-Generation Mindshare Implementation,Onsite,CLI_0096
+PRJ_0016,Project Orchestrate Rich Functionalities Platform Migration,Remote,CLI_0288
+PRJ_0017,Project Matrix 24/365 Roi Automation,Onsite,CLI_0021
+PRJ_0018,Project Matrix Ubiquitous Synergies Platform Migration,Hybrid,CLI_0171
+PRJ_0019,Project Leverage 24/7 E-Markets Audit,Remote,CLI_0382
+PRJ_0020,Project Morph Collaborative Platforms Platform Migration,Onsite,CLI_0178
+PRJ_0021,Project Enable Robust E-Commerce Automation,Hybrid,CLI_0182
+PRJ_0022,Project Utilize Frictionless Partnerships Automation,Hybrid,CLI_0121
+PRJ_0023,Project Enable Integrated E-Commerce Implementation,Hybrid,CLI_0416
+PRJ_0024,Project Seize End-To-End Interfaces Transformation,Hybrid,CLI_0450
+PRJ_0025,Project Scale Web-Enabled Technologies Audit,Onsite,CLI_0484
+PRJ_0026,Project Embrace Cross-Platform Supply-Chains Implementation,Hybrid,CLI_0116
+PRJ_0027,Project Benchmark Sticky Paradigms Platform Migration,Hybrid,CLI_0460
+PRJ_0028,Project Optimize Synergistic Systems Audit,Offshore,CLI_0045
+PRJ_0029,Project Redefine Transparent Functionalities Automation,Remote,CLI_0267
+PRJ_0030,Project Grow User-Centric Technologies Automation,Offshore,CLI_0214
+PRJ_0031,Project Engineer Compelling Channels Platform Migration,Offshore,CLI_0219
+PRJ_0032,Project Drive Viral Applications Optimization,Hybrid,CLI_0230
+PRJ_0033,Project Redefine Strategic Eyeballs Implementation,Offshore,CLI_0106
+PRJ_0034,Project Productize Clicks-And-Mortar Applications Automation,Offshore,CLI_0298
+PRJ_0035,Project Benchmark Out-Of-The-Box Methodologies Implementation,Offshore,CLI_0442
+PRJ_0036,Project Visualize Ubiquitous Architectures Platform Migration,Hybrid,CLI_0353
+PRJ_0037,Project Harness Visionary Roi Automation,Offshore,CLI_0221
+PRJ_0038,Project Deliver Efficient Platforms Platform Migration,Offshore,CLI_0163
+PRJ_0039,Project Enhance Seamless Models Transformation,Onsite,CLI_0095
+PRJ_0040,Project Facilitate Scalable Networks Optimization,Offshore,CLI_0373
+PRJ_0041,Project Mesh Cutting-Edge Technologies Transformation,Hybrid,CLI_0451
+PRJ_0042,Project Harness Integrated Vortals Audit,Remote,CLI_0156
+PRJ_0043,Project Engineer Virtual Eyeballs Audit,Hybrid,CLI_0078
+PRJ_0044,Project Integrate Best-Of-Breed E-Commerce Platform Migration,Onsite,CLI_0068
+PRJ_0045,Project Mesh Efficient Networks Platform Migration,Onsite,CLI_0391
+PRJ_0046,Project Matrix Turn-Key Platforms Implementation,Hybrid,CLI_0311
+PRJ_0047,Project Seize Front-End Communities Implementation,Offshore,CLI_0306
+PRJ_0048,Project Embrace Front-End Niches Platform Migration,Offshore,CLI_0352
+PRJ_0049,Project Synthesize Visionary E-Services Transformation,Hybrid,CLI_0041
+PRJ_0050,Project Matrix Frictionless Technologies Automation,Remote,CLI_0069
+PRJ_0051,Project Redefine Back-End Metrics Implementation,Remote,CLI_0365
+PRJ_0052,Project Engineer Sticky E-Services Automation,Hybrid,CLI_0095
+PRJ_0053,Project Repurpose Efficient Eyeballs Audit,Remote,CLI_0243
+PRJ_0054,Project Transform Best-Of-Breed Schemas Platform Migration,Offshore,CLI_0099
+PRJ_0055,Project E-Enable Frictionless Web-Readiness Platform Migration,Onsite,CLI_0210
+PRJ_0056,Project Expedite Revolutionary Users Transformation,Hybrid,CLI_0487
+PRJ_0057,Project Incubate Dynamic Synergies Audit,Offshore,CLI_0381
+PRJ_0058,Project Synthesize Proactive Relationships Automation,Offshore,CLI_0388
+PRJ_0059,Project Architect Front-End Networks Platform Migration,Onsite,CLI_0091
+PRJ_0060,Project Brand Visionary Deliverables Audit,Remote,CLI_0353
+PRJ_0061,Project Enable Ubiquitous Technologies Optimization,Remote,CLI_0455
+PRJ_0062,Project Redefine One-To-One Initiatives Platform Migration,Remote,CLI_0208
+PRJ_0063,Project Grow User-Centric Models Transformation,Remote,CLI_0369
+PRJ_0064,Project Morph E-Business Channels Optimization,Remote,CLI_0314
+PRJ_0065,Project Empower One-To-One Convergence Automation,Onsite,CLI_0267
+PRJ_0066,Project Exploit Strategic E-Services Transformation,Remote,CLI_0234
+PRJ_0067,Project Drive Intuitive Vortals Transformation,Offshore,CLI_0266
+PRJ_0068,Project Leverage Open-Source Niches Implementation,Remote,CLI_0377
+PRJ_0069,Project Target Intuitive Vortals Transformation,Remote,CLI_0265
+PRJ_0070,Project Productize Robust E-Commerce Automation,Onsite,CLI_0098
+PRJ_0071,Project Transform Turn-Key Solutions Optimization,Remote,CLI_0204
+PRJ_0072,Project E-Enable Robust Functionalities Optimization,Hybrid,CLI_0237
+PRJ_0073,Project Whiteboard Value-Added Action-Items Platform Migration,Remote,CLI_0151
+PRJ_0074,Project Enable Enterprise E-Services Implementation,Onsite,CLI_0354
+PRJ_0075,Project Innovate 24/365 Portals Implementation,Offshore,CLI_0238
+PRJ_0076,Project Syndicate B2C Models Automation,Remote,CLI_0047
+PRJ_0077,Project Transition Viral Models Automation,Onsite,CLI_0093
+PRJ_0078,Project Envisioneer End-To-End Solutions Implementation,Offshore,CLI_0202
+PRJ_0079,Project Whiteboard E-Business Deliverables Audit,Hybrid,CLI_0231
+PRJ_0080,Project Iterate Killer Synergies Transformation,Offshore,CLI_0233
+PRJ_0081,Project Brand Innovative Models Implementation,Offshore,CLI_0452
+PRJ_0082,Project Engage Best-Of-Breed Roi Audit,Onsite,CLI_0129
+PRJ_0083,Project Integrate Next-Generation Portals Optimization,Offshore,CLI_0368
+PRJ_0084,Project Re-Intermediate Enterprise Functionalities Automation,Onsite,CLI_0047
+PRJ_0085,Project Benchmark Web-Enabled Functionalities Transformation,Remote,CLI_0325
+PRJ_0086,Project Seize Compelling Deliverables Optimization,Onsite,CLI_0269
+PRJ_0087,Project Repurpose Viral Content Automation,Remote,CLI_0373
+PRJ_0088,Project E-Enable Bleeding-Edge Technologies Implementation,Offshore,CLI_0194
+PRJ_0089,Project Repurpose Holistic Models Implementation,Remote,CLI_0023
+PRJ_0090,Project Generate Impactful Metrics Platform Migration,Hybrid,CLI_0290
+PRJ_0091,Project Seize Compelling Technologies Automation,Offshore,CLI_0084
+PRJ_0092,Project Transform Magnetic Initiatives Platform Migration,Offshore,CLI_0394
+PRJ_0093,Project Matrix Front-End E-Markets Automation,Onsite,CLI_0215
+PRJ_0094,Project Grow World-Class Action-Items Optimization,Hybrid,CLI_0374
+PRJ_0095,Project Repurpose Cutting-Edge Initiatives Audit,Hybrid,CLI_0321
+PRJ_0096,Project Reinvent Plug-And-Play Vortals Platform Migration,Onsite,CLI_0461
+PRJ_0097,Project Repurpose One-To-One Convergence Platform Migration,Offshore,CLI_0002
+PRJ_0098,Project Scale Impactful Channels Implementation,Hybrid,CLI_0007
+PRJ_0099,Project Revolutionize Compelling Models Audit,Remote,CLI_0438
+PRJ_0100,Project Expedite Transparent Methodologies Audit,Onsite,CLI_0312
+PRJ_0101,Project Incentivize Proactive Technologies Audit,Offshore,CLI_0112
+PRJ_0102,Project Empower Killer E-Markets Implementation,Remote,CLI_0233
+PRJ_0103,Project Streamline World-Class Portals Audit,Remote,CLI_0041
+PRJ_0104,Project Innovate Turn-Key E-Markets Implementation,Onsite,CLI_0126
+PRJ_0105,Project Strategize Visionary E-Commerce Implementation,Hybrid,CLI_0318
+PRJ_0106,Project Strategize Back-End Markets Automation,Offshore,CLI_0026
+PRJ_0107,Project Empower Holistic E-Services Platform Migration,Offshore,CLI_0029
+PRJ_0108,Project Facilitate Revolutionary Content Automation,Hybrid,CLI_0019
+PRJ_0109,Project Grow Transparent E-Services Platform Migration,Onsite,CLI_0342
+PRJ_0110,Project Maximize Frictionless Users Implementation,Hybrid,CLI_0170
+PRJ_0111,Project Architect One-To-One E-Business Transformation,Onsite,CLI_0056
+PRJ_0112,Project Re-Intermediate Open-Source Channels Audit,Offshore,CLI_0083
+PRJ_0113,Project Expedite Vertical Web-Readiness Automation,Hybrid,CLI_0313
+PRJ_0114,Project Exploit Enterprise Infrastructures Automation,Offshore,CLI_0495
+PRJ_0115,Project Revolutionize Open-Source Convergence Audit,Hybrid,CLI_0477
+PRJ_0116,Project Revolutionize Innovative Experiences Transformation,Onsite,CLI_0394
+PRJ_0117,Project Streamline Best-Of-Breed Relationships Optimization,Hybrid,CLI_0189
+PRJ_0118,Project Incubate 24/365 Communities Audit,Onsite,CLI_0389
+PRJ_0119,Project E-Enable Impactful E-Services Audit,Onsite,CLI_0150
+PRJ_0120,Project Envisioneer Granular Relationships Audit,Offshore,CLI_0063
+PRJ_0121,Project Facilitate Transparent E-Tailers Automation,Hybrid,CLI_0169
+PRJ_0122,Project Engage Interactive Synergies Implementation,Remote,CLI_0269
+PRJ_0123,Project Integrate Vertical Deliverables Platform Migration,Offshore,CLI_0314
+PRJ_0124,Project Transform Impactful Models Transformation,Onsite,CLI_0293
+PRJ_0125,Project Integrate Granular Technologies Automation,Onsite,CLI_0248
+PRJ_0126,Project Monetize Proactive E-Services Automation,Hybrid,CLI_0219
+PRJ_0127,Project Whiteboard Interactive Paradigms Implementation,Hybrid,CLI_0133
+PRJ_0128,Project Empower 24/7 Architectures Implementation,Hybrid,CLI_0475
+PRJ_0129,Project Visualize Wireless Channels Platform Migration,Remote,CLI_0267
+PRJ_0130,Project Transition Real-Time Infrastructures Automation,Remote,CLI_0253
+PRJ_0131,Project Optimize Intuitive Mindshare Platform Migration,Offshore,CLI_0363
+PRJ_0132,Project Drive Next-Generation Web-Readiness Optimization,Offshore,CLI_0001
+PRJ_0133,Project Implement B2C Platforms Transformation,Onsite,CLI_0239
+PRJ_0134,Project Extend Impactful Solutions Automation,Onsite,CLI_0378
+PRJ_0135,Project E-Enable Extensible Vortals Platform Migration,Remote,CLI_0212
+PRJ_0136,Project Brand Vertical Content Transformation,Hybrid,CLI_0180
+PRJ_0137,Project Empower Ubiquitous Solutions Implementation,Offshore,CLI_0006
+PRJ_0138,Project Transform Back-End Experiences Automation,Offshore,CLI_0354
+PRJ_0139,Project Maximize Collaborative Architectures Optimization,Hybrid,CLI_0405
+PRJ_0140,Project Envisioneer Cutting-Edge Infrastructures Transformation,Hybrid,CLI_0154
+PRJ_0141,Project Enhance Transparent Schemas Implementation,Hybrid,CLI_0393
+PRJ_0142,Project Empower Compelling Technologies Transformation,Onsite,CLI_0352
+PRJ_0143,Project Redefine Interactive Architectures Optimization,Hybrid,CLI_0203
+PRJ_0144,Project Utilize Rich Interfaces Automation,Onsite,CLI_0427
+PRJ_0145,Project Disintermediate Sticky Systems Platform Migration,Offshore,CLI_0170
+PRJ_0146,Project Enhance Proactive Interfaces Optimization,Remote,CLI_0470
+PRJ_0147,Project Revolutionize Bleeding-Edge Systems Audit,Onsite,CLI_0331
+PRJ_0148,Project Disintermediate Compelling Networks Platform Migration,Remote,CLI_0080
+PRJ_0149,Project Transform Extensible Supply-Chains Automation,Remote,CLI_0457
+PRJ_0150,Project Orchestrate Strategic Platforms Implementation,Hybrid,CLI_0237
+PRJ_0151,Project Engage Frictionless E-Tailers Audit,Onsite,CLI_0428
+PRJ_0152,Project Cultivate Holistic Applications Implementation,Hybrid,CLI_0290
+PRJ_0153,Project Incentivize Strategic Eyeballs Automation,Hybrid,CLI_0285
+PRJ_0154,Project Strategize Collaborative Deliverables Implementation,Onsite,CLI_0107
+PRJ_0155,Project Drive Bleeding-Edge Markets Implementation,Hybrid,CLI_0410
+PRJ_0156,Project Revolutionize Rich Portals Optimization,Onsite,CLI_0497
+PRJ_0157,Project Deploy Extensible Supply-Chains Platform Migration,Hybrid,CLI_0431
+PRJ_0158,Project E-Enable B2C Paradigms Transformation,Hybrid,CLI_0193
+PRJ_0159,Project Harness Transparent Synergies Automation,Offshore,CLI_0293
+PRJ_0160,Project Empower Best-Of-Breed Schemas Implementation,Remote,CLI_0096
+PRJ_0161,Project Generate Holistic Users Implementation,Onsite,CLI_0443
+PRJ_0162,Project Synthesize Turn-Key Experiences Optimization,Hybrid,CLI_0364
+PRJ_0163,Project Incentivize World-Class Bandwidth Transformation,Hybrid,CLI_0212
+PRJ_0164,Project Unleash Compelling Mindshare Transformation,Remote,CLI_0450
+PRJ_0165,Project Engage Strategic Platforms Platform Migration,Hybrid,CLI_0232
+PRJ_0166,Project Brand Intuitive Architectures Optimization,Offshore,CLI_0269
+PRJ_0167,Project Enable Value-Added Communities Optimization,Offshore,CLI_0058
+PRJ_0168,Project Mesh 24/7 Communities Optimization,Onsite,CLI_0399
+PRJ_0169,Project Aggregate Visionary Initiatives Platform Migration,Onsite,CLI_0228
+PRJ_0170,Project Integrate Cutting-Edge Models Implementation,Onsite,CLI_0410
+PRJ_0171,Project Leverage Holistic Channels Audit,Offshore,CLI_0098
+PRJ_0172,Project Extend Next-Generation Interfaces Optimization,Remote,CLI_0376
+PRJ_0173,Project Implement Distributed Initiatives Implementation,Hybrid,CLI_0398
+PRJ_0174,Project Brand Distributed Methodologies Optimization,Offshore,CLI_0394
+PRJ_0175,Project Empower World-Class E-Business Transformation,Offshore,CLI_0106
+PRJ_0176,Project Matrix Out-Of-The-Box Networks Automation,Onsite,CLI_0236
+PRJ_0177,Project Visualize Frictionless Eyeballs Audit,Onsite,CLI_0003
+PRJ_0178,Project Envisioneer Best-Of-Breed E-Business Optimization,Onsite,CLI_0352
+PRJ_0179,Project Unleash Out-Of-The-Box Deliverables Implementation,Onsite,CLI_0171
+PRJ_0180,Project Expedite Dot-Com Info-Mediaries Audit,Onsite,CLI_0053
+PRJ_0181,Project Target Best-Of-Breed Supply-Chains Implementation,Hybrid,CLI_0012
+PRJ_0182,Project Re-Contextualize Global Communities Implementation,Hybrid,CLI_0328
+PRJ_0183,Project Mesh Collaborative Synergies Platform Migration,Hybrid,CLI_0103
+PRJ_0184,Project Harness Next-Generation Roi Platform Migration,Hybrid,CLI_0142
+PRJ_0185,Project Orchestrate Collaborative Partnerships Implementation,Hybrid,CLI_0396
+PRJ_0186,Project Implement Extensible Solutions Audit,Onsite,CLI_0140
+PRJ_0187,Project Aggregate Mission-Critical Users Platform Migration,Offshore,CLI_0141
+PRJ_0188,Project Target Open-Source Platforms Transformation,Onsite,CLI_0491
+PRJ_0189,Project Streamline Plug-And-Play Metrics Implementation,Onsite,CLI_0106
+PRJ_0190,Project Leverage Innovative Convergence Implementation,Hybrid,CLI_0282
+PRJ_0191,Project Whiteboard Magnetic Convergence Optimization,Hybrid,CLI_0073
+PRJ_0192,Project Whiteboard Value-Added Solutions Automation,Hybrid,CLI_0294
+PRJ_0193,Project Empower Front-End E-Commerce Platform Migration,Offshore,CLI_0037
+PRJ_0194,Project Benchmark Extensible Relationships Optimization,Hybrid,CLI_0277
+PRJ_0195,Project Re-Intermediate Wireless Portals Audit,Onsite,CLI_0067
+PRJ_0196,Project Engage 24/365 Partnerships Transformation,Remote,CLI_0463
+PRJ_0197,Project Benchmark B2C Platforms Automation,Onsite,CLI_0055
+PRJ_0198,Project Drive Killer Niches Audit,Onsite,CLI_0045
+PRJ_0199,Project Reinvent Back-End Networks Audit,Remote,CLI_0092
+PRJ_0200,Project Transform End-To-End Deliverables Automation,Remote,CLI_0316
+PRJ_0201,Project Benchmark Integrated Supply-Chains Optimization,Hybrid,CLI_0171
+PRJ_0202,Project Maximize Efficient E-Business Platform Migration,Onsite,CLI_0499
+PRJ_0203,Project Repurpose Collaborative E-Tailers Audit,Offshore,CLI_0048
+PRJ_0204,Project Leverage Clicks-And-Mortar E-Services Automation,Remote,CLI_0050
+PRJ_0205,Project Architect E-Business E-Business Audit,Hybrid,CLI_0351
+PRJ_0206,Project Orchestrate B2B Communities Automation,Remote,CLI_0241
+PRJ_0207,Project Syndicate Clicks-And-Mortar Vortals Platform Migration,Offshore,CLI_0074
+PRJ_0208,Project Optimize Scalable Channels Implementation,Hybrid,CLI_0468
+PRJ_0209,Project Deliver Visionary E-Commerce Optimization,Remote,CLI_0094
+PRJ_0210,Project Repurpose Collaborative Vortals Automation,Hybrid,CLI_0404
+PRJ_0211,Project Monetize 24/7 Action-Items Optimization,Remote,CLI_0250
+PRJ_0212,Project Engage Impactful Architectures Transformation,Onsite,CLI_0244
+PRJ_0213,Project Revolutionize Integrated Info-Mediaries Transformation,Hybrid,CLI_0246
+PRJ_0214,Project Seize Extensible Deliverables Audit,Offshore,CLI_0145
+PRJ_0215,Project Harness Strategic Metrics Optimization,Offshore,CLI_0261
+PRJ_0216,Project E-Enable Killer Communities Transformation,Remote,CLI_0419
+PRJ_0217,Project Whiteboard Efficient Eyeballs Automation,Onsite,CLI_0167
+PRJ_0218,Project E-Enable User-Centric Schemas Implementation,Onsite,CLI_0406
+PRJ_0219,Project Grow Holistic Portals Optimization,Remote,CLI_0206
+PRJ_0220,Project Innovate 24/7 Schemas Implementation,Remote,CLI_0123
+PRJ_0221,Project Productize User-Centric Experiences Implementation,Offshore,CLI_0281
+PRJ_0222,Project Seize Virtual Web-Readiness Platform Migration,Remote,CLI_0197
+PRJ_0223,Project Cultivate Bricks-And-Clicks Bandwidth Transformation,Hybrid,CLI_0107
+PRJ_0224,Project Revolutionize Cross-Media E-Commerce Automation,Remote,CLI_0402
+PRJ_0225,Project Architect Dynamic Architectures Audit,Hybrid,CLI_0279
+PRJ_0226,Project Disintermediate Virtual Synergies Automation,Offshore,CLI_0089
+PRJ_0227,Project Aggregate Visionary Relationships Automation,Onsite,CLI_0379
+PRJ_0228,Project Mesh Dynamic Synergies Automation,Remote,CLI_0059
+PRJ_0229,Project Benchmark Extensible Supply-Chains Implementation,Remote,CLI_0167
+PRJ_0230,Project Transform Out-Of-The-Box Portals Implementation,Onsite,CLI_0421
+PRJ_0231,Project Deliver Value-Added Metrics Audit,Offshore,CLI_0158
+PRJ_0232,Project Empower Robust Experiences Audit,Onsite,CLI_0307
+PRJ_0233,Project Empower Compelling Interfaces Transformation,Remote,CLI_0168
+PRJ_0234,Project Integrate Dot-Com Niches Audit,Onsite,CLI_0047
+PRJ_0235,Project Whiteboard Leading-Edge Networks Platform Migration,Offshore,CLI_0455
+PRJ_0236,Project Transition Proactive Info-Mediaries Implementation,Onsite,CLI_0388
+PRJ_0237,Project Expedite Ubiquitous Models Platform Migration,Offshore,CLI_0232
+PRJ_0238,Project Reinvent Collaborative Experiences Implementation,Hybrid,CLI_0200
+PRJ_0239,Project Engineer Sticky Paradigms Implementation,Remote,CLI_0101
+PRJ_0240,Project Disintermediate Proactive E-Business Platform Migration,Hybrid,CLI_0154
+PRJ_0241,Project Productize B2C Roi Implementation,Hybrid,CLI_0471
+PRJ_0242,Project Cultivate End-To-End Infrastructures Audit,Hybrid,CLI_0046
+PRJ_0243,Project Deploy 24/7 Markets Implementation,Onsite,CLI_0314
+PRJ_0244,Project Grow Leading-Edge Vortals Implementation,Remote,CLI_0434
+PRJ_0245,Project Transform Efficient Solutions Platform Migration,Hybrid,CLI_0032
+PRJ_0246,Project Visualize Vertical Supply-Chains Optimization,Onsite,CLI_0001
+PRJ_0247,Project E-Enable Turn-Key Communities Automation,Hybrid,CLI_0057
+PRJ_0248,Project Productize Bricks-And-Clicks Deliverables Optimization,Onsite,CLI_0121
+PRJ_0249,Project Implement Wireless E-Markets Audit,Remote,CLI_0321
+PRJ_0250,Project E-Enable Leading-Edge Partnerships Optimization,Remote,CLI_0208
+PRJ_0251,Project Aggregate B2B Niches Audit,Remote,CLI_0280
+PRJ_0252,Project Evolve Virtual Systems Platform Migration,Offshore,CLI_0244
+PRJ_0253,Project Integrate Efficient Metrics Platform Migration,Offshore,CLI_0285
+PRJ_0254,Project Aggregate Transparent Roi Audit,Hybrid,CLI_0431
+PRJ_0255,Project Whiteboard Clicks-And-Mortar Content Audit,Offshore,CLI_0148
+PRJ_0256,Project Empower Cross-Media Initiatives Automation,Offshore,CLI_0069
+PRJ_0257,Project Facilitate Plug-And-Play Networks Transformation,Onsite,CLI_0332
+PRJ_0258,Project E-Enable E-Business Networks Transformation,Offshore,CLI_0370
+PRJ_0259,Project Re-Contextualize Plug-And-Play Infrastructures Audit,Remote,CLI_0500
+PRJ_0260,Project Embrace E-Business Roi Platform Migration,Onsite,CLI_0071
+PRJ_0261,Project Drive E-Business Roi Automation,Remote,CLI_0441
+PRJ_0262,Project Harness Vertical Communities Audit,Remote,CLI_0320
+PRJ_0263,Project Generate Value-Added E-Tailers Platform Migration,Remote,CLI_0261
+PRJ_0264,Project Whiteboard Out-Of-The-Box Bandwidth Audit,Remote,CLI_0197
+PRJ_0265,Project Evolve Interactive Content Optimization,Offshore,CLI_0096
+PRJ_0266,Project E-Enable Dynamic Channels Audit,Onsite,CLI_0296
+PRJ_0267,Project Monetize Scalable Architectures Audit,Offshore,CLI_0365
+PRJ_0268,Project Unleash Front-End Roi Implementation,Hybrid,CLI_0211
+PRJ_0269,Project Empower Global Networks Implementation,Hybrid,CLI_0018
+PRJ_0270,Project Harness Transparent E-Services Transformation,Remote,CLI_0361
+PRJ_0271,Project E-Enable Dynamic Niches Optimization,Onsite,CLI_0298
+PRJ_0272,Project Matrix 24/365 Roi Audit,Onsite,CLI_0073
+PRJ_0273,Project Envisioneer Back-End Systems Automation,Hybrid,CLI_0239
+PRJ_0274,Project Morph E-Business Models Implementation,Onsite,CLI_0268
+PRJ_0275,Project Seize Bricks-And-Clicks Convergence Implementation,Onsite,CLI_0126
+PRJ_0276,Project Revolutionize Customized Functionalities Audit,Onsite,CLI_0351
+PRJ_0277,Project Innovate Frictionless Paradigms Automation,Hybrid,CLI_0314
+PRJ_0278,Project E-Enable Integrated Eyeballs Transformation,Hybrid,CLI_0274
+PRJ_0279,Project Incubate Best-Of-Breed E-Commerce Transformation,Remote,CLI_0233
+PRJ_0280,Project Seize Front-End E-Tailers Implementation,Remote,CLI_0294
+PRJ_0281,Project Facilitate Real-Time Infrastructures Automation,Hybrid,CLI_0216
+PRJ_0282,Project Deliver Best-Of-Breed Portals Optimization,Hybrid,CLI_0149
+PRJ_0283,Project Architect Plug-And-Play Portals Platform Migration,Onsite,CLI_0356
+PRJ_0284,Project Integrate One-To-One Deliverables Implementation,Hybrid,CLI_0373
+PRJ_0285,Project Repurpose Viral Info-Mediaries Implementation,Hybrid,CLI_0032
+PRJ_0286,Project Enable Plug-And-Play Applications Automation,Remote,CLI_0297
+PRJ_0287,Project Harness Out-Of-The-Box Networks Platform Migration,Onsite,CLI_0337
+PRJ_0288,Project Synergize Robust Vortals Optimization,Onsite,CLI_0147
+PRJ_0289,Project Scale Sticky Functionalities Audit,Onsite,CLI_0065
+PRJ_0290,Project Seize Value-Added Communities Implementation,Onsite,CLI_0436
+PRJ_0291,Project Deploy Collaborative Supply-Chains Optimization,Hybrid,CLI_0068
+PRJ_0292,Project Facilitate Mission-Critical Roi Implementation,Hybrid,CLI_0141
+PRJ_0293,Project Redefine Synergistic Content Optimization,Onsite,CLI_0380
+PRJ_0294,Project Leverage Plug-And-Play Users Transformation,Offshore,CLI_0466
+PRJ_0295,Project Reinvent Vertical Systems Implementation,Offshore,CLI_0338
+PRJ_0296,Project Exploit Ubiquitous Applications Audit,Hybrid,CLI_0414
+PRJ_0297,Project Maximize User-Centric Interfaces Platform Migration,Hybrid,CLI_0401
+PRJ_0298,Project Syndicate Interactive Portals Automation,Offshore,CLI_0249
+PRJ_0299,Project Drive Out-Of-The-Box Metrics Platform Migration,Onsite,CLI_0176
+PRJ_0300,Project Facilitate Compelling Methodologies Transformation,Offshore,CLI_0305
+PRJ_0301,Project Strategize Seamless Paradigms Platform Migration,Remote,CLI_0386
+PRJ_0302,Project Re-Contextualize Bleeding-Edge Mindshare Audit,Remote,CLI_0122
+PRJ_0303,Project Transform Next-Generation E-Commerce Automation,Remote,CLI_0372
+PRJ_0304,Project Revolutionize Real-Time Networks Automation,Offshore,CLI_0108
+PRJ_0305,Project Strategize Proactive Communities Implementation,Hybrid,CLI_0028
+PRJ_0306,Project Deliver Frictionless Content Automation,Hybrid,CLI_0387
+PRJ_0307,Project Matrix 24/365 Networks Transformation,Onsite,CLI_0086
+PRJ_0308,Project Engineer Global Channels Audit,Remote,CLI_0244
+PRJ_0309,Project Repurpose Open-Source Markets Optimization,Remote,CLI_0383
+PRJ_0310,Project Evolve Extensible Eyeballs Implementation,Offshore,CLI_0195
+PRJ_0311,Project Exploit Cross-Media Bandwidth Automation,Remote,CLI_0243
+PRJ_0312,Project Strategize Frictionless Bandwidth Optimization,Offshore,CLI_0272
+PRJ_0313,Project Implement B2B Solutions Audit,Onsite,CLI_0148
+PRJ_0314,Project Matrix Virtual Content Audit,Remote,CLI_0348
+PRJ_0315,Project Monetize Strategic Roi Optimization,Onsite,CLI_0050
+PRJ_0316,Project Incentivize Best-Of-Breed E-Commerce Implementation,Hybrid,CLI_0490
+PRJ_0317,Project Evolve Interactive Eyeballs Audit,Hybrid,CLI_0172
+PRJ_0318,Project Innovate Out-Of-The-Box Synergies Optimization,Hybrid,CLI_0411
+PRJ_0319,Project Syndicate Granular Convergence Transformation,Hybrid,CLI_0336
+PRJ_0320,Project Transform Collaborative Schemas Implementation,Remote,CLI_0237
+PRJ_0321,Project Innovate Impactful E-Tailers Automation,Offshore,CLI_0376
+PRJ_0322,Project Redefine Collaborative Web Services Automation,Offshore,CLI_0267
+PRJ_0323,Project Synergize Plug-And-Play Action-Items Optimization,Offshore,CLI_0161
+PRJ_0324,Project Engineer Mission-Critical Architectures Implementation,Onsite,CLI_0345
+PRJ_0325,Project Enable Turn-Key Channels Transformation,Onsite,CLI_0007
+PRJ_0326,Project Strategize World-Class Technologies Audit,Onsite,CLI_0269
+PRJ_0327,Project Transition Cutting-Edge Metrics Transformation,Remote,CLI_0180
+PRJ_0328,Project Strategize Intuitive Convergence Platform Migration,Hybrid,CLI_0129
+PRJ_0329,Project Synthesize Proactive E-Services Platform Migration,Onsite,CLI_0013
+PRJ_0330,Project Matrix Virtual Action-Items Implementation,Onsite,CLI_0030
+PRJ_0331,Project Disintermediate Bricks-And-Clicks Supply-Chains Implementation,Offshore,CLI_0487
+PRJ_0332,Project Deliver Clicks-And-Mortar E-Business Implementation,Onsite,CLI_0363
+PRJ_0333,Project Expedite Impactful Partnerships Transformation,Onsite,CLI_0439
+PRJ_0334,Project Visualize Bleeding-Edge Channels Implementation,Offshore,CLI_0193
+PRJ_0335,Project Synthesize Dynamic Paradigms Automation,Offshore,CLI_0459
+PRJ_0336,Project Architect Seamless E-Commerce Transformation,Offshore,CLI_0130
+PRJ_0337,Project Evolve Cross-Platform Architectures Optimization,Remote,CLI_0339
+PRJ_0338,Project Visualize Viral E-Commerce Transformation,Remote,CLI_0473
+PRJ_0339,Project Orchestrate Front-End Content Optimization,Remote,CLI_0355
+PRJ_0340,Project Synergize Compelling Paradigms Automation,Hybrid,CLI_0132
+PRJ_0341,Project Morph Next-Generation Roi Platform Migration,Onsite,CLI_0142
+PRJ_0342,Project Leverage Impactful Methodologies Transformation,Remote,CLI_0199
+PRJ_0343,Project Mesh Sticky Bandwidth Optimization,Onsite,CLI_0133
+PRJ_0344,Project Exploit Strategic Convergence Optimization,Offshore,CLI_0226
+PRJ_0345,Project Innovate Mission-Critical Experiences Transformation,Remote,CLI_0476
+PRJ_0346,Project Cultivate Wireless Synergies Platform Migration,Remote,CLI_0092
+PRJ_0347,Project Leverage Turn-Key Channels Automation,Remote,CLI_0056
+PRJ_0348,Project Maximize Integrated Methodologies Platform Migration,Remote,CLI_0112
+PRJ_0349,Project Target Value-Added Models Implementation,Onsite,CLI_0468
+PRJ_0350,Project Visualize Wireless E-Commerce Audit,Hybrid,CLI_0053
+PRJ_0351,Project Revolutionize Scalable Content Transformation,Onsite,CLI_0037
+PRJ_0352,Project Brand Back-End Functionalities Implementation,Hybrid,CLI_0398
+PRJ_0353,Project Embrace Customized Mindshare Audit,Onsite,CLI_0460
+PRJ_0354,Project Disintermediate Collaborative Supply-Chains Audit,Offshore,CLI_0335
+PRJ_0355,Project Iterate Bricks-And-Clicks Initiatives Automation,Onsite,CLI_0478
+PRJ_0356,Project Generate Virtual E-Commerce Transformation,Remote,CLI_0137
+PRJ_0357,Project Incubate Integrated Methodologies Platform Migration,Hybrid,CLI_0464
+PRJ_0358,Project Evolve B2C Synergies Audit,Onsite,CLI_0264
+PRJ_0359,Project Facilitate Back-End Solutions Automation,Remote,CLI_0245
+PRJ_0360,Project Deliver Ubiquitous E-Commerce Audit,Remote,CLI_0433
+PRJ_0361,Project Streamline Plug-And-Play Technologies Automation,Onsite,CLI_0277
+PRJ_0362,Project Integrate 24/7 Models Platform Migration,Onsite,CLI_0197
+PRJ_0363,Project Target Bricks-And-Clicks Markets Automation,Remote,CLI_0063
+PRJ_0364,Project Matrix Out-Of-The-Box Portals Implementation,Hybrid,CLI_0171
+PRJ_0365,Project Brand Cross-Platform Methodologies Automation,Hybrid,CLI_0206
+PRJ_0366,Project Envisioneer Proactive Users Transformation,Onsite,CLI_0188
+PRJ_0367,Project Empower Virtual Technologies Implementation,Hybrid,CLI_0042
+PRJ_0368,Project Seize Next-Generation Web-Readiness Audit,Hybrid,CLI_0332
+PRJ_0369,Project Grow World-Class Content Platform Migration,Offshore,CLI_0284
+PRJ_0370,Project Whiteboard Robust Metrics Transformation,Remote,CLI_0339
+PRJ_0371,Project Embrace Synergistic Paradigms Platform Migration,Hybrid,CLI_0357
+PRJ_0372,Project Incubate Impactful Action-Items Audit,Onsite,CLI_0323
+PRJ_0373,Project Reinvent Strategic Users Automation,Hybrid,CLI_0250
+PRJ_0374,Project Transform End-To-End Eyeballs Transformation,Remote,CLI_0377
+PRJ_0375,Project Whiteboard Rich E-Commerce Platform Migration,Offshore,CLI_0019
+PRJ_0376,Project Productize Efficient Convergence Platform Migration,Onsite,CLI_0369
+PRJ_0377,Project Target Interactive Deliverables Implementation,Offshore,CLI_0251
+PRJ_0378,Project Maximize Ubiquitous Paradigms Audit,Onsite,CLI_0406
+PRJ_0379,Project Optimize World-Class Relationships Implementation,Hybrid,CLI_0256
+PRJ_0380,Project Integrate B2B Metrics Implementation,Remote,CLI_0495
+PRJ_0381,Project Drive Mission-Critical Architectures Transformation,Onsite,CLI_0174
+PRJ_0382,Project Deliver Strategic Supply-Chains Transformation,Hybrid,CLI_0404
+PRJ_0383,Project Re-Contextualize Seamless E-Commerce Automation,Onsite,CLI_0208
+PRJ_0384,Project Strategize Vertical Roi Transformation,Offshore,CLI_0414
+PRJ_0385,Project Extend Dot-Com Experiences Automation,Remote,CLI_0482
+PRJ_0386,Project Extend Strategic E-Commerce Automation,Offshore,CLI_0380
+PRJ_0387,Project Embrace Dynamic Networks Implementation,Offshore,CLI_0474
+PRJ_0388,Project Morph Seamless E-Business Transformation,Onsite,CLI_0377
+PRJ_0389,Project Deliver Interactive Markets Platform Migration,Remote,CLI_0335
+PRJ_0390,Project Disintermediate Collaborative E-Tailers Transformation,Remote,CLI_0465
+PRJ_0391,Project Engineer User-Centric Niches Implementation,Onsite,CLI_0125
+PRJ_0392,Project Extend Viral Niches Automation,Offshore,CLI_0008
+PRJ_0393,Project Deliver Revolutionary Metrics Platform Migration,Onsite,CLI_0464
+PRJ_0394,Project Strategize Viral Methodologies Optimization,Onsite,CLI_0234
+PRJ_0395,Project Envisioneer Real-Time Synergies Implementation,Offshore,CLI_0428
+PRJ_0396,Project Deploy Best-Of-Breed Web-Readiness Implementation,Onsite,CLI_0419
+PRJ_0397,Project Generate Next-Generation Web Services Transformation,Onsite,CLI_0255
+PRJ_0398,Project Enable Efficient Niches Implementation,Offshore,CLI_0033
+PRJ_0399,Project Target Turn-Key Platforms Platform Migration,Remote,CLI_0173
+PRJ_0400,Project Enhance Magnetic Web-Readiness Automation,Remote,CLI_0167
+PRJ_0401,Project Unleash World-Class E-Services Transformation,Offshore,CLI_0165
+PRJ_0402,Project Optimize Front-End Metrics Platform Migration,Onsite,CLI_0304
+PRJ_0403,Project Transition Ubiquitous Applications Platform Migration,Hybrid,CLI_0033
+PRJ_0404,Project Deploy Open-Source Users Transformation,Hybrid,CLI_0073
+PRJ_0405,Project Synergize Collaborative Schemas Audit,Offshore,CLI_0357
+PRJ_0406,Project Implement Cross-Platform Supply-Chains Optimization,Offshore,CLI_0225
+PRJ_0407,Project Harness Cross-Media Systems Platform Migration,Onsite,CLI_0069
+PRJ_0408,Project Orchestrate Plug-And-Play Models Transformation,Remote,CLI_0399
+PRJ_0409,Project Architect Frictionless Methodologies Platform Migration,Onsite,CLI_0451
+PRJ_0410,Project Synergize Dot-Com Interfaces Audit,Onsite,CLI_0004
+PRJ_0411,Project Integrate Strategic Functionalities Transformation,Offshore,CLI_0475
+PRJ_0412,Project Synthesize Cross-Media Infrastructures Transformation,Hybrid,CLI_0214
+PRJ_0413,Project Architect Out-Of-The-Box Content Automation,Remote,CLI_0355
+PRJ_0414,Project Envisioneer Turn-Key Systems Platform Migration,Offshore,CLI_0074
+PRJ_0415,Project Innovate Plug-And-Play Web-Readiness Automation,Hybrid,CLI_0268
+PRJ_0416,Project Orchestrate Frictionless E-Business Audit,Remote,CLI_0123
+PRJ_0417,Project Seize User-Centric E-Markets Platform Migration,Onsite,CLI_0306
+PRJ_0418,Project Engineer Vertical Technologies Platform Migration,Remote,CLI_0314
+PRJ_0419,Project Engage Holistic Action-Items Transformation,Hybrid,CLI_0179
+PRJ_0420,Project Synergize End-To-End Architectures Audit,Onsite,CLI_0286
+PRJ_0421,Project Expedite 24/7 Platforms Platform Migration,Offshore,CLI_0061
+PRJ_0422,Project Strategize Killer E-Tailers Implementation,Onsite,CLI_0317
+PRJ_0423,Project Embrace Distributed Roi Optimization,Offshore,CLI_0238
+PRJ_0424,Project Cultivate Granular Interfaces Automation,Offshore,CLI_0142
+PRJ_0425,Project Engage Transparent Convergence Transformation,Offshore,CLI_0058
+PRJ_0426,Project Engineer Killer E-Markets Platform Migration,Remote,CLI_0255
+PRJ_0427,Project Productize Efficient Vortals Platform Migration,Offshore,CLI_0344
+PRJ_0428,Project Revolutionize Bricks-And-Clicks Functionalities Transformation,Onsite,CLI_0331
+PRJ_0429,Project Transform Turn-Key Mindshare Optimization,Hybrid,CLI_0108
+PRJ_0430,Project Incubate Impactful E-Services Audit,Hybrid,CLI_0172
+PRJ_0431,Project Iterate Wireless Models Implementation,Remote,CLI_0023
+PRJ_0432,Project Engineer Plug-And-Play Technologies Transformation,Onsite,CLI_0474
+PRJ_0433,Project Transition Customized Communities Implementation,Offshore,CLI_0081
+PRJ_0434,Project Re-Contextualize Virtual Interfaces Transformation,Remote,CLI_0264
+PRJ_0435,Project Envisioneer Clicks-And-Mortar Users Transformation,Onsite,CLI_0459
+PRJ_0436,Project E-Enable Open-Source Bandwidth Platform Migration,Remote,CLI_0304
+PRJ_0437,Project Visualize Virtual Methodologies Implementation,Hybrid,CLI_0215
+PRJ_0438,Project Redefine Mission-Critical Architectures Platform Migration,Hybrid,CLI_0118
+PRJ_0439,Project Benchmark Next-Generation E-Markets Transformation,Hybrid,CLI_0117
+PRJ_0440,Project Deploy Dynamic Functionalities Transformation,Offshore,CLI_0378
+PRJ_0441,Project Utilize Magnetic Channels Audit,Offshore,CLI_0193
+PRJ_0442,Project Re-Intermediate Strategic Metrics Platform Migration,Onsite,CLI_0242
+PRJ_0443,Project Maximize Transparent Web-Readiness Implementation,Remote,CLI_0028
+PRJ_0444,Project Harness Interactive Communities Audit,Offshore,CLI_0111
+PRJ_0445,Project Maximize Collaborative Methodologies Implementation,Remote,CLI_0092
+PRJ_0446,Project Evolve Out-Of-The-Box Web-Readiness Audit,Hybrid,CLI_0070
+PRJ_0447,Project Extend Integrated Schemas Audit,Offshore,CLI_0324
+PRJ_0448,Project Deliver Dynamic Communities Optimization,Hybrid,CLI_0104
+PRJ_0449,Project Target Out-Of-The-Box Action-Items Optimization,Offshore,CLI_0017
+PRJ_0450,Project Reinvent Collaborative Solutions Automation,Onsite,CLI_0144
+PRJ_0451,Project Harness End-To-End Technologies Platform Migration,Onsite,CLI_0437
+PRJ_0452,Project Optimize Proactive E-Tailers Audit,Remote,CLI_0215
+PRJ_0453,Project Maximize Plug-And-Play Bandwidth Platform Migration,Hybrid,CLI_0113
+PRJ_0454,Project Incentivize Visionary Action-Items Optimization,Offshore,CLI_0405
+PRJ_0455,Project Generate Virtual Bandwidth Automation,Offshore,CLI_0296
+PRJ_0456,Project Deliver One-To-One Metrics Implementation,Offshore,CLI_0045
+PRJ_0457,Project E-Enable Open-Source Communities Audit,Remote,CLI_0442
+PRJ_0458,Project Incentivize Plug-And-Play Partnerships Platform Migration,Remote,CLI_0429
+PRJ_0459,Project Implement Robust Methodologies Audit,Hybrid,CLI_0008
+PRJ_0460,Project Innovate Transparent Deliverables Automation,Remote,CLI_0377
+PRJ_0461,Project Syndicate Integrated Partnerships Platform Migration,Offshore,CLI_0168
+PRJ_0462,Project Generate Next-Generation Portals Audit,Offshore,CLI_0457
+PRJ_0463,Project Matrix 24/7 Metrics Implementation,Offshore,CLI_0468
+PRJ_0464,Project Visualize Proactive Systems Implementation,Onsite,CLI_0214
+PRJ_0465,Project Syndicate Leading-Edge Technologies Transformation,Onsite,CLI_0241
+PRJ_0466,Project Exploit Impactful Paradigms Automation,Onsite,CLI_0218
+PRJ_0467,Project Disintermediate Wireless Mindshare Implementation,Remote,CLI_0246
+PRJ_0468,Project Whiteboard Visionary E-Commerce Automation,Onsite,CLI_0232
+PRJ_0469,Project Generate 24/7 Platforms Audit,Offshore,CLI_0043
+PRJ_0470,Project Orchestrate Back-End Applications Implementation,Onsite,CLI_0355
+PRJ_0471,Project Engineer One-To-One Communities Automation,Remote,CLI_0487
+PRJ_0472,Project Disintermediate Transparent Web Services Platform Migration,Offshore,CLI_0184
+PRJ_0473,Project Facilitate B2B Action-Items Optimization,Offshore,CLI_0332
+PRJ_0474,Project Generate Compelling E-Tailers Transformation,Onsite,CLI_0246
+PRJ_0475,Project Morph Mission-Critical Supply-Chains Automation,Hybrid,CLI_0083
+PRJ_0476,Project Visualize Intuitive Bandwidth Automation,Remote,CLI_0440
+PRJ_0477,Project Productize Holistic Action-Items Implementation,Onsite,CLI_0500
+PRJ_0478,Project Engineer Back-End Supply-Chains Audit,Remote,CLI_0396
+PRJ_0479,Project Envisioneer Visionary Supply-Chains Platform Migration,Remote,CLI_0095
+PRJ_0480,Project Generate Customized Portals Optimization,Remote,CLI_0361
+PRJ_0481,Project Maximize Efficient Metrics Automation,Onsite,CLI_0441
+PRJ_0482,Project Integrate Global Eyeballs Automation,Onsite,CLI_0198
+PRJ_0483,Project Mesh Front-End Web-Readiness Automation,Hybrid,CLI_0272
+PRJ_0484,Project Enhance Out-Of-The-Box Networks Transformation,Hybrid,CLI_0219
+PRJ_0485,Project Disintermediate Distributed Content Optimization,Offshore,CLI_0404
+PRJ_0486,Project Unleash Granular Networks Automation,Onsite,CLI_0318
+PRJ_0487,Project Whiteboard Extensible Info-Mediaries Optimization,Onsite,CLI_0264
+PRJ_0488,Project Unleash Visionary Methodologies Automation,Hybrid,CLI_0455
+PRJ_0489,Project Envisioneer B2C Channels Transformation,Onsite,CLI_0197
+PRJ_0490,Project Orchestrate Distributed Architectures Optimization,Remote,CLI_0317
+PRJ_0491,Project Morph Bleeding-Edge Web-Readiness Transformation,Hybrid,CLI_0188
+PRJ_0492,Project Iterate Killer Applications Platform Migration,Onsite,CLI_0288
+PRJ_0493,Project Monetize B2B Applications Automation,Offshore,CLI_0071
+PRJ_0494,Project Implement Back-End Relationships Optimization,Offshore,CLI_0277
+PRJ_0495,Project Drive Wireless Info-Mediaries Transformation,Remote,CLI_0378
+PRJ_0496,Project Re-Intermediate Frictionless Convergence Implementation,Offshore,CLI_0386
+PRJ_0497,Project Visualize B2C Applications Automation,Offshore,CLI_0165
+PRJ_0498,Project Iterate Turn-Key Deliverables Optimization,Hybrid,CLI_0258
+PRJ_0499,Project Disintermediate Enterprise Models Automation,Remote,CLI_0142
+PRJ_0500,Project Visualize Frictionless Deliverables Transformation,Onsite,CLI_0191

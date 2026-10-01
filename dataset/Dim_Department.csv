@@ -1,0 +1,51 @@
+Department_ID,Department_Name,Cost_Center,Division_ID
+DEP_001,Data Platform Unit 1,CC-1001,DIV02
+DEP_002,Security Ops Unit 2,CC-1002,DIV05
+DEP_003,Benefits & Comp Unit 3,CC-1003,DIV01
+DEP_004,Security Ops Unit 4,CC-1004,DIV01
+DEP_005,Talent Acquisition Unit 5,CC-1005,DIV05
+DEP_006,Application Modernization Unit 6,CC-1006,DIV04
+DEP_007,Benefits & Comp Unit 7,CC-1007,DIV04
+DEP_008,Core Infrastructure Unit 8,CC-1008,DIV02
+DEP_009,Core Infrastructure Unit 9,CC-1009,DIV03
+DEP_010,Core Infrastructure Unit 10,CC-1010,DIV05
+DEP_011,Talent Acquisition Unit 11,CC-1011,DIV01
+DEP_012,Security Ops Unit 12,CC-1012,DIV02
+DEP_013,Data Platform Unit 13,CC-1013,DIV01
+DEP_014,Employee Relations Unit 14,CC-1014,DIV04
+DEP_015,Benefits & Comp Unit 15,CC-1015,DIV04
+DEP_016,UX Systems Unit 16,CC-1016,DIV04
+DEP_017,Employee Relations Unit 17,CC-1017,DIV02
+DEP_018,Risk Compliance Unit 18,CC-1018,DIV01
+DEP_019,Core Infrastructure Unit 19,CC-1019,DIV04
+DEP_020,Talent Acquisition Unit 20,CC-1020,DIV03
+DEP_021,UX Systems Unit 21,CC-1021,DIV05
+DEP_022,Employee Relations Unit 22,CC-1022,DIV01
+DEP_023,Application Modernization Unit 23,CC-1023,DIV04
+DEP_024,Data Platform Unit 24,CC-1024,DIV01
+DEP_025,Application Modernization Unit 25,CC-1025,DIV03
+DEP_026,Application Modernization Unit 26,CC-1026,DIV02
+DEP_027,Employee Relations Unit 27,CC-1027,DIV03
+DEP_028,Core Infrastructure Unit 28,CC-1028,DIV01
+DEP_029,Data Platform Unit 29,CC-1029,DIV04
+DEP_030,Benefits & Comp Unit 30,CC-1030,DIV02
+DEP_031,Security Ops Unit 31,CC-1031,DIV04
+DEP_032,Risk Compliance Unit 32,CC-1032,DIV02
+DEP_033,Risk Compliance Unit 33,CC-1033,DIV05
+DEP_034,Core Infrastructure Unit 34,CC-1034,DIV01
+DEP_035,Benefits & Comp Unit 35,CC-1035,DIV01
+DEP_036,Benefits & Comp Unit 36,CC-1036,DIV01
+DEP_037,UX Systems Unit 37,CC-1037,DIV01
+DEP_038,Core Infrastructure Unit 38,CC-1038,DIV05
+DEP_039,Benefits & Comp Unit 39,CC-1039,DIV05
+DEP_040,Benefits & Comp Unit 40,CC-1040,DIV04
+DEP_041,Employee Relations Unit 41,CC-1041,DIV01
+DEP_042,Benefits & Comp Unit 42,CC-1042,DIV01
+DEP_043,Core Infrastructure Unit 43,CC-1043,DIV02
+DEP_044,UX Systems Unit 44,CC-1044,DIV03
+DEP_045,Talent Acquisition Unit 45,CC-1045,DIV04
+DEP_046,Talent Acquisition Unit 46,CC-1046,DIV02
+DEP_047,Benefits & Comp Unit 47,CC-1047,DIV05
+DEP_048,Benefits & Comp Unit 48,CC-1048,DIV05
+DEP_049,Talent Acquisition Unit 49,CC-1049,DIV04
+DEP_050,Employee Relations Unit 50,CC-1050,DIV03

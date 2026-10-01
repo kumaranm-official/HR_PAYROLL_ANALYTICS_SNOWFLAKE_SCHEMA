@@ -1,0 +1,501 @@
+Job_Role_ID,Role_Title,Standard_Hourly_Rate,Department_ID
+ROL_0001,Lead Scrum Master (L2),44.55,DEP_041
+ROL_0002,Associate People Analyst (L3),78.89,DEP_042
+ROL_0003,Consulting Cloud Architect (L2),47.85,DEP_017
+ROL_0004,Lead Cloud Architect (L5),54.11,DEP_049
+ROL_0005,Staff HRBP (L2),153.91,DEP_041
+ROL_0006,Senior QA Specialist (L5),129.98,DEP_029
+ROL_0007,Staff Scrum Master (L3),53.87,DEP_005
+ROL_0008,Senior QA Specialist (L3),134.54,DEP_038
+ROL_0009,Associate Scrum Master (L5),44.27,DEP_030
+ROL_0010,Senior Data Engineer (L1),81.09,DEP_019
+ROL_0011,Associate HRBP (L5),109.26,DEP_025
+ROL_0012,Senior Data Engineer (L4),148.63,DEP_037
+ROL_0013,Staff People Analyst (L3),110.63,DEP_033
+ROL_0014,Lead Data Engineer (L4),47.94,DEP_022
+ROL_0015,Staff HRBP (L5),115.77,DEP_003
+ROL_0016,Lead QA Specialist (L4),100.51,DEP_040
+ROL_0017,Lead Scrum Master (L3),149.74,DEP_025
+ROL_0018,Senior Scrum Master (L5),41.55,DEP_041
+ROL_0019,Staff Scrum Master (L1),76.21,DEP_036
+ROL_0020,Staff DevOps Engineer (L3),66.5,DEP_043
+ROL_0021,Junior Cloud Architect (L3),45.19,DEP_043
+ROL_0022,Lead Scrum Master (L3),155.96,DEP_045
+ROL_0023,Staff DevOps Engineer (L2),109.38,DEP_006
+ROL_0024,Principal DevOps Engineer (L3),136.65,DEP_043
+ROL_0025,Staff HRBP (L4),98.56,DEP_002
+ROL_0026,Principal Recruiter (L2),153.9,DEP_022
+ROL_0027,Consulting QA Specialist (L2),63.32,DEP_009
+ROL_0028,Lead HRBP (L3),140.55,DEP_007
+ROL_0029,Junior Data Engineer (L3),144.55,DEP_040
+ROL_0030,Lead DevOps Engineer (L2),55.28,DEP_045
+ROL_0031,Consulting Cloud Architect (L4),40.46,DEP_024
+ROL_0032,Staff People Analyst (L4),111.32,DEP_049
+ROL_0033,Staff QA Specialist (L2),101.75,DEP_020
+ROL_0034,Consulting QA Specialist (L2),80.98,DEP_037
+ROL_0035,Senior QA Specialist (L3),132.27,DEP_033
+ROL_0036,Junior DevOps Engineer (L2),137.11,DEP_039
+ROL_0037,Lead Recruiter (L1),115.15,DEP_024
+ROL_0038,Junior HRBP (L5),141.4,DEP_019
+ROL_0039,Associate Cloud Architect (L3),91.16,DEP_033
+ROL_0040,Lead DevOps Engineer (L1),153.3,DEP_015
+ROL_0041,Consulting QA Specialist (L3),151.31,DEP_027
+ROL_0042,Associate DevOps Engineer (L5),81.75,DEP_025
+ROL_0043,Associate Scrum Master (L2),38.52,DEP_007
+ROL_0044,Consulting Scrum Master (L2),52.2,DEP_019
+ROL_0045,Consulting QA Specialist (L2),129.86,DEP_031
+ROL_0046,Senior Data Engineer (L1),37.38,DEP_014
+ROL_0047,Consulting Cloud Architect (L5),152.53,DEP_039
+ROL_0048,Junior DevOps Engineer (L1),132.02,DEP_016
+ROL_0049,Principal HRBP (L1),64.8,DEP_041
+ROL_0050,Consulting QA Specialist (L1),48.86,DEP_032
+ROL_0051,Junior Data Engineer (L5),106.88,DEP_046
+ROL_0052,Lead Recruiter (L4),35.2,DEP_023
+ROL_0053,Lead DevOps Engineer (L2),118.05,DEP_006
+ROL_0054,Junior Scrum Master (L1),154.18,DEP_035
+ROL_0055,Junior Data Engineer (L4),144.17,DEP_003
+ROL_0056,Staff DevOps Engineer (L3),66.71,DEP_002
+ROL_0057,Principal HRBP (L3),65.14,DEP_043
+ROL_0058,Staff HRBP (L5),126.9,DEP_022
+ROL_0059,Lead Data Engineer (L3),103.25,DEP_042
+ROL_0060,Lead QA Specialist (L4),113.97,DEP_009
+ROL_0061,Associate QA Specialist (L1),71.68,DEP_003
+ROL_0062,Consulting People Analyst (L1),74.45,DEP_020
+ROL_0063,Junior DevOps Engineer (L5),94.17,DEP_003
+ROL_0064,Consulting People Analyst (L3),79.62,DEP_050
+ROL_0065,Associate Scrum Master (L3),50.56,DEP_024
+ROL_0066,Senior DevOps Engineer (L4),146.83,DEP_025
+ROL_0067,Principal Cloud Architect (L4),121.51,DEP_024
+ROL_0068,Consulting Recruiter (L1),125.89,DEP_006
+ROL_0069,Senior Cloud Architect (L5),71.72,DEP_007
+ROL_0070,Associate Scrum Master (L3),73.31,DEP_039
+ROL_0071,Staff DevOps Engineer (L2),121.22,DEP_023
+ROL_0072,Senior Data Engineer (L3),111.86,DEP_028
+ROL_0073,Principal Data Engineer (L1),118.9,DEP_026
+ROL_0074,Principal Cloud Architect (L1),52.85,DEP_039
+ROL_0075,Staff QA Specialist (L1),50.78,DEP_016
+ROL_0076,Consulting Scrum Master (L3),82.86,DEP_037
+ROL_0077,Associate Cloud Architect (L4),153.6,DEP_024
+ROL_0078,Senior HRBP (L5),52.21,DEP_024
+ROL_0079,Senior Scrum Master (L3),66.2,DEP_008
+ROL_0080,Associate Cloud Architect (L4),99.72,DEP_036
+ROL_0081,Associate Recruiter (L3),123.0,DEP_014
+ROL_0082,Junior Recruiter (L4),60.02,DEP_009
+ROL_0083,Consulting HRBP (L4),56.58,DEP_046
+ROL_0084,Senior HRBP (L3),118.48,DEP_046
+ROL_0085,Associate Recruiter (L3),141.42,DEP_046
+ROL_0086,Staff Cloud Architect (L3),98.59,DEP_008
+ROL_0087,Lead Cloud Architect (L2),133.8,DEP_002
+ROL_0088,Principal Scrum Master (L4),135.46,DEP_036
+ROL_0089,Lead HRBP (L1),73.66,DEP_046
+ROL_0090,Staff QA Specialist (L5),86.35,DEP_027
+ROL_0091,Consulting HRBP (L2),156.55,DEP_042
+ROL_0092,Associate QA Specialist (L4),120.01,DEP_023
+ROL_0093,Lead Cloud Architect (L2),89.08,DEP_004
+ROL_0094,Consulting HRBP (L5),54.13,DEP_011
+ROL_0095,Lead Scrum Master (L2),78.25,DEP_034
+ROL_0096,Principal HRBP (L3),59.54,DEP_036
+ROL_0097,Principal Cloud Architect (L3),111.8,DEP_006
+ROL_0098,Junior Cloud Architect (L5),152.7,DEP_010
+ROL_0099,Lead Scrum Master (L5),40.15,DEP_002
+ROL_0100,Associate Data Engineer (L5),68.08,DEP_014
+ROL_0101,Consulting DevOps Engineer (L5),114.87,DEP_032
+ROL_0102,Staff Recruiter (L3),95.37,DEP_044
+ROL_0103,Senior Recruiter (L4),44.12,DEP_004
+ROL_0104,Lead QA Specialist (L4),95.53,DEP_014
+ROL_0105,Principal Cloud Architect (L3),142.69,DEP_021
+ROL_0106,Staff Scrum Master (L4),51.35,DEP_024
+ROL_0107,Junior HRBP (L3),65.22,DEP_008
+ROL_0108,Principal QA Specialist (L2),52.61,DEP_004
+ROL_0109,Principal DevOps Engineer (L5),87.27,DEP_011
+ROL_0110,Consulting Scrum Master (L5),125.14,DEP_013
+ROL_0111,Consulting Cloud Architect (L4),159.5,DEP_030
+ROL_0112,Senior Recruiter (L4),37.9,DEP_026
+ROL_0113,Junior QA Specialist (L2),61.89,DEP_023
+ROL_0114,Associate Data Engineer (L3),96.86,DEP_042
+ROL_0115,Staff QA Specialist (L3),102.09,DEP_007
+ROL_0116,Senior Cloud Architect (L3),125.94,DEP_049
+ROL_0117,Senior Scrum Master (L1),85.07,DEP_037
+ROL_0118,Junior People Analyst (L3),104.15,DEP_005
+ROL_0119,Senior QA Specialist (L5),69.97,DEP_040
+ROL_0120,Staff HRBP (L2),156.89,DEP_026
+ROL_0121,Principal Scrum Master (L5),152.37,DEP_049
+ROL_0122,Lead People Analyst (L5),98.64,DEP_033
+ROL_0123,Associate Data Engineer (L1),52.13,DEP_022
+ROL_0124,Consulting QA Specialist (L5),92.12,DEP_039
+ROL_0125,Junior Cloud Architect (L3),151.42,DEP_021
+ROL_0126,Lead DevOps Engineer (L5),127.41,DEP_020
+ROL_0127,Junior Scrum Master (L5),138.54,DEP_035
+ROL_0128,Senior Recruiter (L4),136.97,DEP_024
+ROL_0129,Principal HRBP (L4),107.96,DEP_047
+ROL_0130,Consulting Data Engineer (L5),94.32,DEP_042
+ROL_0131,Consulting People Analyst (L1),107.94,DEP_011
+ROL_0132,Junior DevOps Engineer (L2),137.71,DEP_016
+ROL_0133,Associate HRBP (L2),37.37,DEP_021
+ROL_0134,Senior Cloud Architect (L4),121.31,DEP_027
+ROL_0135,Junior QA Specialist (L1),123.22,DEP_034
+ROL_0136,Lead Scrum Master (L4),100.68,DEP_021
+ROL_0137,Lead QA Specialist (L5),77.79,DEP_023
+ROL_0138,Staff Recruiter (L5),95.52,DEP_016
+ROL_0139,Principal Recruiter (L2),152.69,DEP_020
+ROL_0140,Consulting Recruiter (L2),121.28,DEP_032
+ROL_0141,Principal QA Specialist (L3),105.06,DEP_047
+ROL_0142,Principal Recruiter (L1),106.68,DEP_035
+ROL_0143,Senior DevOps Engineer (L3),154.33,DEP_010
+ROL_0144,Principal Data Engineer (L3),154.41,DEP_006
+ROL_0145,Principal QA Specialist (L3),128.42,DEP_014
+ROL_0146,Lead Recruiter (L5),122.02,DEP_009
+ROL_0147,Associate People Analyst (L2),41.35,DEP_034
+ROL_0148,Lead People Analyst (L1),47.52,DEP_022
+ROL_0149,Staff QA Specialist (L1),120.15,DEP_009
+ROL_0150,Associate Cloud Architect (L4),116.61,DEP_031
+ROL_0151,Senior People Analyst (L3),75.15,DEP_042
+ROL_0152,Associate HRBP (L5),64.03,DEP_048
+ROL_0153,Staff Data Engineer (L2),87.24,DEP_012
+ROL_0154,Associate DevOps Engineer (L4),58.29,DEP_048
+ROL_0155,Consulting Recruiter (L1),36.16,DEP_037
+ROL_0156,Junior HRBP (L3),70.57,DEP_042
+ROL_0157,Junior QA Specialist (L2),141.38,DEP_030
+ROL_0158,Principal People Analyst (L1),76.34,DEP_047
+ROL_0159,Senior Recruiter (L2),36.76,DEP_022
+ROL_0160,Consulting Recruiter (L5),119.3,DEP_013
+ROL_0161,Lead DevOps Engineer (L4),99.41,DEP_006
+ROL_0162,Senior HRBP (L2),157.71,DEP_031
+ROL_0163,Principal People Analyst (L1),67.6,DEP_016
+ROL_0164,Senior Recruiter (L3),72.74,DEP_047
+ROL_0165,Junior Data Engineer (L3),116.71,DEP_045
+ROL_0166,Lead Data Engineer (L1),93.17,DEP_011
+ROL_0167,Senior Recruiter (L1),114.84,DEP_019
+ROL_0168,Principal People Analyst (L2),154.67,DEP_031
+ROL_0169,Lead QA Specialist (L5),81.7,DEP_045
+ROL_0170,Junior QA Specialist (L5),135.25,DEP_014
+ROL_0171,Consulting People Analyst (L5),144.14,DEP_006
+ROL_0172,Junior QA Specialist (L5),122.97,DEP_005
+ROL_0173,Junior HRBP (L1),138.6,DEP_033
+ROL_0174,Lead Cloud Architect (L2),76.01,DEP_034
+ROL_0175,Senior HRBP (L2),124.61,DEP_032
+ROL_0176,Associate QA Specialist (L1),91.68,DEP_033
+ROL_0177,Senior QA Specialist (L5),42.22,DEP_030
+ROL_0178,Staff Recruiter (L1),84.49,DEP_001
+ROL_0179,Staff People Analyst (L5),44.13,DEP_028
+ROL_0180,Principal HRBP (L5),159.27,DEP_005
+ROL_0181,Senior Data Engineer (L3),86.11,DEP_050
+ROL_0182,Lead DevOps Engineer (L3),159.11,DEP_025
+ROL_0183,Senior DevOps Engineer (L4),45.03,DEP_043
+ROL_0184,Consulting Cloud Architect (L3),49.83,DEP_035
+ROL_0185,Senior Cloud Architect (L2),139.35,DEP_049
+ROL_0186,Associate Recruiter (L4),119.19,DEP_035
+ROL_0187,Senior DevOps Engineer (L2),65.94,DEP_023
+ROL_0188,Lead Recruiter (L2),152.18,DEP_047
+ROL_0189,Consulting HRBP (L1),136.18,DEP_027
+ROL_0190,Junior Data Engineer (L2),60.76,DEP_007
+ROL_0191,Junior Data Engineer (L4),109.72,DEP_046
+ROL_0192,Consulting Data Engineer (L2),127.57,DEP_026
+ROL_0193,Senior People Analyst (L5),62.16,DEP_050
+ROL_0194,Associate Cloud Architect (L5),159.19,DEP_015
+ROL_0195,Consulting Scrum Master (L5),109.74,DEP_044
+ROL_0196,Consulting Scrum Master (L2),72.72,DEP_010
+ROL_0197,Staff People Analyst (L4),72.56,DEP_004
+ROL_0198,Junior Cloud Architect (L4),104.48,DEP_004
+ROL_0199,Principal DevOps Engineer (L5),74.84,DEP_027
+ROL_0200,Senior Cloud Architect (L3),82.06,DEP_049
+ROL_0201,Junior QA Specialist (L2),141.17,DEP_020
+ROL_0202,Consulting Cloud Architect (L4),149.34,DEP_036
+ROL_0203,Senior DevOps Engineer (L5),101.25,DEP_025
+ROL_0204,Lead Recruiter (L2),76.28,DEP_006
+ROL_0205,Senior Scrum Master (L1),101.95,DEP_013
+ROL_0206,Associate Recruiter (L4),119.21,DEP_039
+ROL_0207,Associate HRBP (L2),135.58,DEP_038
+ROL_0208,Staff People Analyst (L4),61.11,DEP_022
+ROL_0209,Principal Data Engineer (L2),152.14,DEP_048
+ROL_0210,Associate QA Specialist (L2),121.95,DEP_046
+ROL_0211,Lead DevOps Engineer (L2),104.01,DEP_050
+ROL_0212,Principal DevOps Engineer (L4),101.71,DEP_023
+ROL_0213,Principal Recruiter (L3),99.1,DEP_032
+ROL_0214,Senior HRBP (L4),130.2,DEP_021
+ROL_0215,Lead Scrum Master (L3),86.74,DEP_037
+ROL_0216,Consulting People Analyst (L2),37.03,DEP_036
+ROL_0217,Junior DevOps Engineer (L3),54.05,DEP_022
+ROL_0218,Lead DevOps Engineer (L5),139.17,DEP_032
+ROL_0219,Junior Scrum Master (L3),130.42,DEP_032
+ROL_0220,Staff QA Specialist (L4),56.03,DEP_023
+ROL_0221,Lead Cloud Architect (L5),96.04,DEP_035
+ROL_0222,Staff Data Engineer (L5),39.23,DEP_005
+ROL_0223,Consulting Data Engineer (L1),86.55,DEP_041
+ROL_0224,Lead HRBP (L2),36.14,DEP_033
+ROL_0225,Senior Scrum Master (L1),112.23,DEP_043
+ROL_0226,Junior QA Specialist (L4),36.97,DEP_035
+ROL_0227,Junior DevOps Engineer (L1),37.09,DEP_047
+ROL_0228,Principal Recruiter (L1),97.78,DEP_045
+ROL_0229,Staff DevOps Engineer (L2),48.38,DEP_007
+ROL_0230,Junior Cloud Architect (L2),58.99,DEP_034
+ROL_0231,Principal Scrum Master (L3),134.37,DEP_006
+ROL_0232,Principal DevOps Engineer (L4),105.63,DEP_045
+ROL_0233,Lead Recruiter (L1),116.72,DEP_042
+ROL_0234,Consulting Data Engineer (L1),85.66,DEP_025
+ROL_0235,Junior QA Specialist (L1),114.59,DEP_045
+ROL_0236,Lead HRBP (L4),140.67,DEP_042
+ROL_0237,Consulting Scrum Master (L5),157.17,DEP_007
+ROL_0238,Junior Data Engineer (L2),61.43,DEP_045
+ROL_0239,Junior QA Specialist (L3),40.82,DEP_005
+ROL_0240,Staff Recruiter (L5),105.44,DEP_003
+ROL_0241,Lead Scrum Master (L1),155.18,DEP_038
+ROL_0242,Lead DevOps Engineer (L1),72.41,DEP_037
+ROL_0243,Lead DevOps Engineer (L5),76.47,DEP_049
+ROL_0244,Staff Cloud Architect (L1),97.6,DEP_023
+ROL_0245,Associate HRBP (L4),64.02,DEP_005
+ROL_0246,Principal DevOps Engineer (L3),38.7,DEP_018
+ROL_0247,Consulting QA Specialist (L4),63.52,DEP_036
+ROL_0248,Senior DevOps Engineer (L2),119.96,DEP_043
+ROL_0249,Senior HRBP (L5),71.92,DEP_016
+ROL_0250,Staff HRBP (L1),68.5,DEP_025
+ROL_0251,Staff Cloud Architect (L4),74.58,DEP_007
+ROL_0252,Associate Data Engineer (L3),90.59,DEP_049
+ROL_0253,Principal HRBP (L2),45.91,DEP_028
+ROL_0254,Senior DevOps Engineer (L1),38.28,DEP_023
+ROL_0255,Junior HRBP (L5),109.76,DEP_021
+ROL_0256,Consulting DevOps Engineer (L1),71.48,DEP_025
+ROL_0257,Consulting HRBP (L5),148.15,DEP_016
+ROL_0258,Junior Cloud Architect (L4),56.19,DEP_018
+ROL_0259,Principal Recruiter (L4),53.24,DEP_011
+ROL_0260,Senior Recruiter (L4),72.47,DEP_005
+ROL_0261,Principal Recruiter (L2),125.11,DEP_032
+ROL_0262,Junior People Analyst (L4),48.37,DEP_020
+ROL_0263,Associate DevOps Engineer (L3),140.2,DEP_025
+ROL_0264,Consulting Scrum Master (L4),76.84,DEP_042
+ROL_0265,Junior Cloud Architect (L3),75.08,DEP_045
+ROL_0266,Lead QA Specialist (L3),57.2,DEP_026
+ROL_0267,Principal Recruiter (L4),155.97,DEP_016
+ROL_0268,Principal DevOps Engineer (L3),137.06,DEP_026
+ROL_0269,Principal HRBP (L5),59.98,DEP_035
+ROL_0270,Lead Data Engineer (L4),152.87,DEP_014
+ROL_0271,Senior Recruiter (L1),137.37,DEP_027
+ROL_0272,Staff QA Specialist (L2),114.17,DEP_016
+ROL_0273,Principal Cloud Architect (L4),133.63,DEP_005
+ROL_0274,Senior QA Specialist (L5),85.1,DEP_033
+ROL_0275,Consulting DevOps Engineer (L5),39.6,DEP_024
+ROL_0276,Staff HRBP (L1),131.12,DEP_043
+ROL_0277,Staff Scrum Master (L2),115.87,DEP_003
+ROL_0278,Junior DevOps Engineer (L3),155.71,DEP_028
+ROL_0279,Associate Data Engineer (L1),67.34,DEP_033
+ROL_0280,Staff People Analyst (L4),81.76,DEP_030
+ROL_0281,Consulting Cloud Architect (L3),159.71,DEP_031
+ROL_0282,Associate Recruiter (L4),150.07,DEP_006
+ROL_0283,Associate Cloud Architect (L3),73.99,DEP_030
+ROL_0284,Consulting People Analyst (L5),95.37,DEP_031
+ROL_0285,Associate QA Specialist (L4),74.86,DEP_020
+ROL_0286,Associate HRBP (L1),141.15,DEP_042
+ROL_0287,Associate Cloud Architect (L2),99.5,DEP_036
+ROL_0288,Lead Scrum Master (L5),88.3,DEP_030
+ROL_0289,Lead DevOps Engineer (L2),58.3,DEP_043
+ROL_0290,Senior DevOps Engineer (L1),127.17,DEP_013
+ROL_0291,Senior DevOps Engineer (L4),35.56,DEP_014
+ROL_0292,Lead Recruiter (L1),107.17,DEP_035
+ROL_0293,Lead Scrum Master (L3),59.63,DEP_008
+ROL_0294,Principal QA Specialist (L5),155.74,DEP_021
+ROL_0295,Junior DevOps Engineer (L5),84.07,DEP_008
+ROL_0296,Principal Scrum Master (L4),112.17,DEP_044
+ROL_0297,Staff Recruiter (L5),108.77,DEP_044
+ROL_0298,Lead Scrum Master (L1),64.82,DEP_008
+ROL_0299,Lead Scrum Master (L2),98.85,DEP_027
+ROL_0300,Junior Cloud Architect (L5),82.96,DEP_012
+ROL_0301,Senior Cloud Architect (L5),55.86,DEP_019
+ROL_0302,Lead Cloud Architect (L3),140.25,DEP_040
+ROL_0303,Associate Scrum Master (L1),95.58,DEP_013
+ROL_0304,Consulting DevOps Engineer (L5),98.18,DEP_032
+ROL_0305,Senior QA Specialist (L4),123.77,DEP_029
+ROL_0306,Senior Cloud Architect (L1),105.67,DEP_049
+ROL_0307,Lead Recruiter (L1),69.36,DEP_035
+ROL_0308,Principal Cloud Architect (L4),105.71,DEP_050
+ROL_0309,Consulting QA Specialist (L5),98.85,DEP_037
+ROL_0310,Associate Recruiter (L5),137.91,DEP_024
+ROL_0311,Junior Data Engineer (L4),103.29,DEP_028
+ROL_0312,Associate People Analyst (L3),144.35,DEP_003
+ROL_0313,Senior Recruiter (L3),142.77,DEP_006
+ROL_0314,Senior HRBP (L2),61.23,DEP_048
+ROL_0315,Junior Scrum Master (L5),114.1,DEP_011
+ROL_0316,Junior Cloud Architect (L2),136.69,DEP_004
+ROL_0317,Junior Scrum Master (L5),70.14,DEP_035
+ROL_0318,Lead Scrum Master (L3),71.17,DEP_018
+ROL_0319,Consulting HRBP (L2),155.35,DEP_027
+ROL_0320,Associate Recruiter (L2),122.68,DEP_009
+ROL_0321,Lead Cloud Architect (L3),138.56,DEP_049
+ROL_0322,Consulting DevOps Engineer (L4),52.77,DEP_041
+ROL_0323,Principal DevOps Engineer (L4),91.5,DEP_041
+ROL_0324,Consulting HRBP (L4),99.45,DEP_018
+ROL_0325,Staff Scrum Master (L4),153.78,DEP_021
+ROL_0326,Junior Data Engineer (L1),126.37,DEP_030
+ROL_0327,Staff Scrum Master (L1),134.46,DEP_026
+ROL_0328,Lead DevOps Engineer (L2),96.84,DEP_021
+ROL_0329,Consulting Recruiter (L3),103.41,DEP_009
+ROL_0330,Junior QA Specialist (L3),146.77,DEP_049
+ROL_0331,Associate Data Engineer (L1),113.27,DEP_030
+ROL_0332,Associate HRBP (L2),90.16,DEP_001
+ROL_0333,Senior People Analyst (L2),145.27,DEP_020
+ROL_0334,Lead Recruiter (L1),116.82,DEP_017
+ROL_0335,Associate Scrum Master (L2),41.47,DEP_041
+ROL_0336,Principal People Analyst (L4),116.94,DEP_046
+ROL_0337,Associate Data Engineer (L2),94.6,DEP_009
+ROL_0338,Junior People Analyst (L5),120.0,DEP_001
+ROL_0339,Associate Scrum Master (L1),158.52,DEP_028
+ROL_0340,Staff Cloud Architect (L4),43.85,DEP_025
+ROL_0341,Associate HRBP (L1),74.17,DEP_020
+ROL_0342,Lead DevOps Engineer (L2),115.2,DEP_044
+ROL_0343,Lead HRBP (L5),105.41,DEP_040
+ROL_0344,Staff Cloud Architect (L4),78.9,DEP_014
+ROL_0345,Staff Cloud Architect (L4),112.01,DEP_029
+ROL_0346,Consulting People Analyst (L1),147.07,DEP_009
+ROL_0347,Consulting HRBP (L5),126.25,DEP_023
+ROL_0348,Senior Scrum Master (L2),65.97,DEP_042
+ROL_0349,Associate People Analyst (L5),110.12,DEP_047
+ROL_0350,Junior Recruiter (L1),140.99,DEP_043
+ROL_0351,Principal People Analyst (L5),110.87,DEP_013
+ROL_0352,Staff DevOps Engineer (L3),115.77,DEP_016
+ROL_0353,Senior DevOps Engineer (L1),65.14,DEP_041
+ROL_0354,Junior HRBP (L5),146.09,DEP_001
+ROL_0355,Principal Scrum Master (L2),83.35,DEP_037
+ROL_0356,Senior Scrum Master (L5),120.37,DEP_049
+ROL_0357,Senior HRBP (L1),108.42,DEP_001
+ROL_0358,Principal People Analyst (L1),150.32,DEP_026
+ROL_0359,Junior Recruiter (L5),130.89,DEP_028
+ROL_0360,Staff DevOps Engineer (L1),115.07,DEP_035
+ROL_0361,Junior Cloud Architect (L3),45.45,DEP_006
+ROL_0362,Junior People Analyst (L2),102.05,DEP_026
+ROL_0363,Junior HRBP (L3),122.33,DEP_047
+ROL_0364,Consulting People Analyst (L1),65.56,DEP_028
+ROL_0365,Associate QA Specialist (L5),111.1,DEP_020
+ROL_0366,Staff Cloud Architect (L1),36.58,DEP_009
+ROL_0367,Staff Data Engineer (L2),97.05,DEP_023
+ROL_0368,Junior Recruiter (L2),81.48,DEP_048
+ROL_0369,Consulting Recruiter (L1),131.43,DEP_002
+ROL_0370,Principal DevOps Engineer (L3),100.48,DEP_017
+ROL_0371,Staff HRBP (L4),91.9,DEP_024
+ROL_0372,Associate QA Specialist (L5),55.86,DEP_011
+ROL_0373,Principal HRBP (L5),119.27,DEP_008
+ROL_0374,Lead Data Engineer (L1),142.34,DEP_001
+ROL_0375,Lead Data Engineer (L4),80.5,DEP_010
+ROL_0376,Lead Data Engineer (L5),135.39,DEP_046
+ROL_0377,Staff DevOps Engineer (L2),75.23,DEP_027
+ROL_0378,Staff Scrum Master (L3),138.25,DEP_037
+ROL_0379,Principal HRBP (L5),119.17,DEP_004
+ROL_0380,Lead People Analyst (L5),157.68,DEP_026
+ROL_0381,Associate QA Specialist (L3),131.69,DEP_020
+ROL_0382,Principal HRBP (L5),92.09,DEP_024
+ROL_0383,Lead Recruiter (L5),133.06,DEP_048
+ROL_0384,Junior People Analyst (L4),81.03,DEP_032
+ROL_0385,Consulting People Analyst (L5),130.06,DEP_016
+ROL_0386,Lead Data Engineer (L4),37.99,DEP_035
+ROL_0387,Principal Data Engineer (L3),35.18,DEP_043
+ROL_0388,Senior Recruiter (L1),60.65,DEP_016
+ROL_0389,Senior QA Specialist (L1),156.57,DEP_010
+ROL_0390,Staff Recruiter (L1),40.49,DEP_015
+ROL_0391,Consulting DevOps Engineer (L3),92.31,DEP_048
+ROL_0392,Associate HRBP (L5),51.69,DEP_026
+ROL_0393,Associate Data Engineer (L4),117.81,DEP_009
+ROL_0394,Lead Recruiter (L3),141.36,DEP_026
+ROL_0395,Staff Scrum Master (L3),91.59,DEP_015
+ROL_0396,Associate People Analyst (L2),132.49,DEP_038
+ROL_0397,Associate Cloud Architect (L1),55.55,DEP_030
+ROL_0398,Principal DevOps Engineer (L1),101.99,DEP_050
+ROL_0399,Lead QA Specialist (L3),92.92,DEP_008
+ROL_0400,Associate Cloud Architect (L3),138.3,DEP_045
+ROL_0401,Junior Data Engineer (L2),139.49,DEP_021
+ROL_0402,Lead HRBP (L2),156.05,DEP_026
+ROL_0403,Junior Data Engineer (L3),67.52,DEP_012
+ROL_0404,Associate DevOps Engineer (L4),104.49,DEP_036
+ROL_0405,Lead HRBP (L4),47.74,DEP_009
+ROL_0406,Associate Data Engineer (L1),138.8,DEP_015
+ROL_0407,Lead People Analyst (L4),81.53,DEP_041
+ROL_0408,Staff HRBP (L5),108.26,DEP_005
+ROL_0409,Associate HRBP (L2),147.81,DEP_029
+ROL_0410,Consulting Cloud Architect (L1),148.13,DEP_022
+ROL_0411,Associate Data Engineer (L4),41.33,DEP_037
+ROL_0412,Senior DevOps Engineer (L4),38.69,DEP_044
+ROL_0413,Senior Cloud Architect (L3),61.84,DEP_012
+ROL_0414,Principal Recruiter (L4),145.43,DEP_003
+ROL_0415,Junior People Analyst (L3),97.36,DEP_036
+ROL_0416,Senior Data Engineer (L1),69.97,DEP_009
+ROL_0417,Senior People Analyst (L5),66.14,DEP_035
+ROL_0418,Consulting Data Engineer (L4),132.74,DEP_023
+ROL_0419,Senior QA Specialist (L3),149.08,DEP_033
+ROL_0420,Principal DevOps Engineer (L3),57.48,DEP_021
+ROL_0421,Junior People Analyst (L1),146.97,DEP_050
+ROL_0422,Principal Data Engineer (L4),101.18,DEP_050
+ROL_0423,Junior People Analyst (L2),47.52,DEP_043
+ROL_0424,Lead Recruiter (L5),137.04,DEP_048
+ROL_0425,Associate People Analyst (L5),140.81,DEP_025
+ROL_0426,Principal Cloud Architect (L2),64.57,DEP_021
+ROL_0427,Consulting Scrum Master (L5),38.53,DEP_045
+ROL_0428,Principal Cloud Architect (L5),153.55,DEP_032
+ROL_0429,Junior Recruiter (L2),96.3,DEP_006
+ROL_0430,Associate People Analyst (L5),62.35,DEP_034
+ROL_0431,Senior Data Engineer (L3),149.74,DEP_013
+ROL_0432,Consulting Cloud Architect (L3),124.62,DEP_021
+ROL_0433,Associate Data Engineer (L2),108.33,DEP_010
+ROL_0434,Consulting HRBP (L5),142.58,DEP_005
+ROL_0435,Principal DevOps Engineer (L5),47.63,DEP_020
+ROL_0436,Principal Cloud Architect (L2),126.54,DEP_028
+ROL_0437,Consulting QA Specialist (L3),56.78,DEP_036
+ROL_0438,Staff Scrum Master (L2),118.19,DEP_012
+ROL_0439,Senior Recruiter (L3),50.92,DEP_047
+ROL_0440,Associate DevOps Engineer (L5),39.05,DEP_039
+ROL_0441,Principal People Analyst (L5),48.01,DEP_032
+ROL_0442,Lead Scrum Master (L1),64.75,DEP_021
+ROL_0443,Lead HRBP (L3),90.83,DEP_017
+ROL_0444,Lead People Analyst (L1),78.81,DEP_007
+ROL_0445,Staff Data Engineer (L1),83.24,DEP_047
+ROL_0446,Senior Cloud Architect (L4),96.64,DEP_025
+ROL_0447,Principal DevOps Engineer (L1),138.6,DEP_037
+ROL_0448,Staff People Analyst (L2),91.41,DEP_003
+ROL_0449,Principal Data Engineer (L3),67.64,DEP_007
+ROL_0450,Associate Scrum Master (L2),145.99,DEP_011
+ROL_0451,Staff HRBP (L5),152.73,DEP_006
+ROL_0452,Principal QA Specialist (L1),88.92,DEP_042
+ROL_0453,Lead DevOps Engineer (L2),41.69,DEP_022
+ROL_0454,Lead People Analyst (L4),122.15,DEP_047
+ROL_0455,Staff Recruiter (L3),72.18,DEP_007
+ROL_0456,Associate DevOps Engineer (L5),103.71,DEP_032
+ROL_0457,Lead Data Engineer (L3),35.48,DEP_006
+ROL_0458,Principal QA Specialist (L2),47.12,DEP_014
+ROL_0459,Lead Recruiter (L1),94.2,DEP_008
+ROL_0460,Principal DevOps Engineer (L4),96.14,DEP_043
+ROL_0461,Principal HRBP (L5),83.44,DEP_024
+ROL_0462,Senior Scrum Master (L2),90.72,DEP_017
+ROL_0463,Senior QA Specialist (L3),63.28,DEP_018
+ROL_0464,Junior Data Engineer (L2),129.03,DEP_043
+ROL_0465,Associate HRBP (L3),136.02,DEP_027
+ROL_0466,Consulting People Analyst (L5),42.62,DEP_025
+ROL_0467,Consulting DevOps Engineer (L5),120.88,DEP_031
+ROL_0468,Junior People Analyst (L4),72.36,DEP_026
+ROL_0469,Consulting Data Engineer (L5),106.4,DEP_034
+ROL_0470,Consulting Cloud Architect (L1),153.66,DEP_029
+ROL_0471,Lead Cloud Architect (L2),136.06,DEP_009
+ROL_0472,Associate DevOps Engineer (L1),158.53,DEP_028
+ROL_0473,Lead Cloud Architect (L5),67.24,DEP_047
+ROL_0474,Consulting HRBP (L1),83.51,DEP_026
+ROL_0475,Junior Scrum Master (L3),99.96,DEP_001
+ROL_0476,Consulting DevOps Engineer (L1),86.81,DEP_010
+ROL_0477,Junior HRBP (L1),105.34,DEP_007
+ROL_0478,Consulting Recruiter (L5),145.02,DEP_027
+ROL_0479,Principal DevOps Engineer (L4),106.5,DEP_031
+ROL_0480,Associate Cloud Architect (L3),85.37,DEP_040
+ROL_0481,Junior DevOps Engineer (L1),84.47,DEP_022
+ROL_0482,Staff People Analyst (L1),128.22,DEP_018
+ROL_0483,Principal Data Engineer (L3),137.17,DEP_020
+ROL_0484,Principal Recruiter (L4),142.28,DEP_044
+ROL_0485,Associate People Analyst (L2),72.56,DEP_048
+ROL_0486,Senior Scrum Master (L3),126.1,DEP_039
+ROL_0487,Staff HRBP (L2),90.21,DEP_027
+ROL_0488,Staff QA Specialist (L5),143.4,DEP_004
+ROL_0489,Junior Cloud Architect (L1),73.89,DEP_033
+ROL_0490,Senior Cloud Architect (L5),144.92,DEP_002
+ROL_0491,Lead People Analyst (L2),139.62,DEP_016
+ROL_0492,Associate QA Specialist (L1),149.75,DEP_046
+ROL_0493,Lead Recruiter (L3),137.94,DEP_033
+ROL_0494,Senior HRBP (L1),65.24,DEP_032
+ROL_0495,Junior QA Specialist (L2),155.07,DEP_031
+ROL_0496,Junior Scrum Master (L3),55.44,DEP_017
+ROL_0497,Staff HRBP (L3),38.43,DEP_004
+ROL_0498,Lead People Analyst (L2),115.92,DEP_044
+ROL_0499,Lead Recruiter (L4),99.16,DEP_050
+ROL_0500,Consulting Data Engineer (L4),148.94,DEP_042

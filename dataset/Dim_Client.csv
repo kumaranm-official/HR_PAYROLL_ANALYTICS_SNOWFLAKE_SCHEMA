@@ -1,0 +1,501 @@
+Client_ID,Client_Name,Account_Status,Industry_ID
+CLI_0001,Jackson-Rodriguez,Legacy,IND03
+CLI_0002,Huber LLC,Tier-1,IND02
+CLI_0003,Jones-Cook,Active,IND03
+CLI_0004,Mclean-Gillespie,Strategic Enterprise,IND02
+CLI_0005,Munoz and Sons,Tier-1,IND03
+CLI_0006,Moreno-Greene,Legacy,IND02
+CLI_0007,"Coleman, Barry and Mcdaniel",Legacy,IND04
+CLI_0008,"Roth, Bailey and Garcia",Tier-1,IND04
+CLI_0009,Stanley-Cantu,Legacy,IND03
+CLI_0010,"Lindsey, Mccormick and Hensley",Tier-1,IND05
+CLI_0011,Strickland and Sons,Active,IND02
+CLI_0012,Hernandez-Griffin,Active,IND03
+CLI_0013,Briggs-Wilson,Strategic Enterprise,IND05
+CLI_0014,Moyer-Ramirez,Strategic Enterprise,IND03
+CLI_0015,Morris and Sons,Active,IND01
+CLI_0016,Saunders LLC,Active,IND05
+CLI_0017,Snyder-Olson,Active,IND05
+CLI_0018,Guzman-Fields,Tier-1,IND05
+CLI_0019,Pham Ltd,Strategic Enterprise,IND01
+CLI_0020,Reyes PLC,Legacy,IND05
+CLI_0021,Ryan-Vasquez,Tier-1,IND02
+CLI_0022,"Underwood, Cruz and Carpenter",Legacy,IND04
+CLI_0023,Rose-Frank,Strategic Enterprise,IND05
+CLI_0024,"Robinson, Miller and Ward",Legacy,IND02
+CLI_0025,Mcknight Inc,Tier-1,IND05
+CLI_0026,Grant-Rosario,Active,IND04
+CLI_0027,Brown LLC,Legacy,IND05
+CLI_0028,Allison-Delacruz,Active,IND02
+CLI_0029,Phillips and Sons,Strategic Enterprise,IND05
+CLI_0030,"Bonilla, Durham and Sanchez",Strategic Enterprise,IND04
+CLI_0031,Brown and Sons,Strategic Enterprise,IND02
+CLI_0032,Hayden Ltd,Strategic Enterprise,IND04
+CLI_0033,Bennett Inc,Legacy,IND01
+CLI_0034,"Hanna, Watson and Miles",Strategic Enterprise,IND04
+CLI_0035,"Perkins, Woods and Wheeler",Strategic Enterprise,IND01
+CLI_0036,Johnson LLC,Legacy,IND03
+CLI_0037,Miller Inc,Strategic Enterprise,IND01
+CLI_0038,Carroll Group,Strategic Enterprise,IND05
+CLI_0039,Cannon Group,Legacy,IND04
+CLI_0040,"Taylor, Rose and Rush",Tier-1,IND04
+CLI_0041,Jenkins-Rogers,Active,IND01
+CLI_0042,"Dominguez, Mitchell and Moore",Legacy,IND01
+CLI_0043,"Johnson, Potter and Gordon",Legacy,IND03
+CLI_0044,Sanders Group,Strategic Enterprise,IND04
+CLI_0045,"Vaughan, Gibson and Dawson",Tier-1,IND03
+CLI_0046,Ellison-Shaw,Active,IND05
+CLI_0047,"Perez, Huynh and Nelson",Legacy,IND04
+CLI_0048,Boyd and Sons,Strategic Enterprise,IND05
+CLI_0049,"Lewis, Montgomery and Robinson",Tier-1,IND03
+CLI_0050,Carson PLC,Legacy,IND04
+CLI_0051,"Skinner, Velasquez and Mcdonald",Tier-1,IND05
+CLI_0052,Delgado-Sullivan,Active,IND05
+CLI_0053,Martin-Pratt,Strategic Enterprise,IND04
+CLI_0054,"Coleman, Nelson and Garcia",Strategic Enterprise,IND02
+CLI_0055,Morrison-Bradford,Active,IND05
+CLI_0056,Allen and Sons,Legacy,IND02
+CLI_0057,"Rodriguez, Lewis and Smith",Strategic Enterprise,IND02
+CLI_0058,Lopez-Harris,Strategic Enterprise,IND03
+CLI_0059,Allen Inc,Active,IND02
+CLI_0060,"Cunningham, Elliott and Tyler",Tier-1,IND03
+CLI_0061,Williams Inc,Active,IND04
+CLI_0062,Smith-Kelly,Tier-1,IND04
+CLI_0063,Benjamin-Porter,Strategic Enterprise,IND05
+CLI_0064,Walton-Swanson,Strategic Enterprise,IND04
+CLI_0065,Park Inc,Active,IND02
+CLI_0066,Russell-Figueroa,Active,IND02
+CLI_0067,Shaw and Sons,Strategic Enterprise,IND02
+CLI_0068,Matthews Group,Active,IND05
+CLI_0069,Willis-Christian,Strategic Enterprise,IND01
+CLI_0070,Martin-Fleming,Strategic Enterprise,IND03
+CLI_0071,Mcclure Inc,Strategic Enterprise,IND05
+CLI_0072,"Hall, Lewis and Maldonado",Tier-1,IND05
+CLI_0073,Mack and Sons,Active,IND03
+CLI_0074,"Black, Chandler and Curtis",Active,IND02
+CLI_0075,West-Anderson,Tier-1,IND05
+CLI_0076,Ward-Chase,Tier-1,IND04
+CLI_0077,Williams-Marquez,Strategic Enterprise,IND02
+CLI_0078,"Hughes, Clark and Bishop",Tier-1,IND05
+CLI_0079,Rubio PLC,Strategic Enterprise,IND05
+CLI_0080,"Gamble, Davis and Smith",Strategic Enterprise,IND05
+CLI_0081,Payne-Novak,Legacy,IND02
+CLI_0082,Porter Group,Legacy,IND04
+CLI_0083,Jackson-Phillips,Active,IND02
+CLI_0084,Ramirez LLC,Tier-1,IND04
+CLI_0085,Davis-White,Strategic Enterprise,IND01
+CLI_0086,Scott-Kennedy,Active,IND02
+CLI_0087,Hines-Ramos,Tier-1,IND02
+CLI_0088,Case PLC,Active,IND02
+CLI_0089,Williams-Trevino,Tier-1,IND05
+CLI_0090,Ortiz-Harvey,Active,IND05
+CLI_0091,"Anderson, Richardson and Kirk",Active,IND01
+CLI_0092,Brooks-Fleming,Tier-1,IND02
+CLI_0093,"Cole, Rich and Esparza",Active,IND04
+CLI_0094,Oliver Ltd,Tier-1,IND03
+CLI_0095,Figueroa and Sons,Active,IND05
+CLI_0096,"Nicholson, Smith and Farrell",Tier-1,IND02
+CLI_0097,Bennett-Hudson,Tier-1,IND04
+CLI_0098,Walker Group,Legacy,IND05
+CLI_0099,"Davis, Owens and Day",Active,IND04
+CLI_0100,Rodriguez-White,Strategic Enterprise,IND03
+CLI_0101,Lowery Group,Tier-1,IND02
+CLI_0102,Gonzalez-Murphy,Active,IND03
+CLI_0103,Peterson-Munoz,Tier-1,IND03
+CLI_0104,Park Group,Strategic Enterprise,IND01
+CLI_0105,Ramirez Inc,Active,IND05
+CLI_0106,"Moore, Harrison and Bowman",Active,IND05
+CLI_0107,Carroll-Huerta,Active,IND04
+CLI_0108,Brown-Stokes,Strategic Enterprise,IND03
+CLI_0109,Irwin-Lewis,Tier-1,IND03
+CLI_0110,Parrish Ltd,Active,IND02
+CLI_0111,Nelson-Reid,Tier-1,IND05
+CLI_0112,Thomas LLC,Legacy,IND03
+CLI_0113,Miller-Russo,Tier-1,IND05
+CLI_0114,Savage-Warren,Legacy,IND05
+CLI_0115,"Orozco, White and Brown",Legacy,IND04
+CLI_0116,Peterson-Mullins,Strategic Enterprise,IND04
+CLI_0117,Gonzalez Group,Tier-1,IND02
+CLI_0118,Alvarez-Barker,Legacy,IND05
+CLI_0119,Sheppard Group,Tier-1,IND03
+CLI_0120,Gaines-Hudson,Legacy,IND05
+CLI_0121,Hoffman PLC,Legacy,IND04
+CLI_0122,Miller Ltd,Strategic Enterprise,IND01
+CLI_0123,"Jensen, Morris and Downs",Strategic Enterprise,IND04
+CLI_0124,"Newton, Doyle and Stewart",Strategic Enterprise,IND01
+CLI_0125,Mosley and Sons,Strategic Enterprise,IND05
+CLI_0126,Lin-Wilson,Tier-1,IND03
+CLI_0127,"Russell, Meyer and Smith",Active,IND02
+CLI_0128,Harding-Mathews,Tier-1,IND01
+CLI_0129,"Cole, Montes and Davis",Active,IND02
+CLI_0130,Reese and Sons,Tier-1,IND05
+CLI_0131,Horton-Schroeder,Tier-1,IND01
+CLI_0132,"Gray, Bailey and Farley",Active,IND03
+CLI_0133,"Ray, Smith and Cervantes",Strategic Enterprise,IND03
+CLI_0134,Turner LLC,Active,IND05
+CLI_0135,"Fuentes, Martinez and Porter",Active,IND04
+CLI_0136,Gutierrez-Bell,Tier-1,IND05
+CLI_0137,"Simmons, Dickson and Rogers",Legacy,IND05
+CLI_0138,Ellis LLC,Active,IND02
+CLI_0139,Tran and Sons,Tier-1,IND04
+CLI_0140,"Graham, Mitchell and Keller",Active,IND02
+CLI_0141,"Kim, Campbell and Oliver",Legacy,IND02
+CLI_0142,Cowan Inc,Active,IND05
+CLI_0143,Banks PLC,Strategic Enterprise,IND05
+CLI_0144,Garcia-Brady,Strategic Enterprise,IND01
+CLI_0145,"Ho, Garcia and Wallace",Legacy,IND02
+CLI_0146,"Shaffer, Contreras and Christian",Active,IND02
+CLI_0147,Walker Group,Active,IND03
+CLI_0148,"James, Gonzalez and Harrison",Tier-1,IND03
+CLI_0149,Bell Group,Tier-1,IND04
+CLI_0150,Odonnell-Newman,Strategic Enterprise,IND05
+CLI_0151,"Foster, Ayers and Casey",Active,IND01
+CLI_0152,"Campbell, Hobbs and Baker",Active,IND05
+CLI_0153,Nunez-Smith,Legacy,IND05
+CLI_0154,Johnson-Johnson,Legacy,IND03
+CLI_0155,Randall-Stone,Legacy,IND02
+CLI_0156,"Greene, Rogers and Haley",Strategic Enterprise,IND04
+CLI_0157,Allen-Beltran,Tier-1,IND05
+CLI_0158,Jensen Group,Active,IND03
+CLI_0159,Solis PLC,Strategic Enterprise,IND04
+CLI_0160,Anderson-Fields,Active,IND05
+CLI_0161,"Thompson, Strong and Holmes",Active,IND05
+CLI_0162,Hall-Mckinney,Legacy,IND03
+CLI_0163,Gordon Ltd,Active,IND05
+CLI_0164,"Mueller, Cameron and Burton",Legacy,IND05
+CLI_0165,Hood-Moore,Legacy,IND04
+CLI_0166,Harris-Davis,Tier-1,IND05
+CLI_0167,Smith-Carrillo,Tier-1,IND02
+CLI_0168,Johnson Ltd,Legacy,IND04
+CLI_0169,"Knapp, Miller and Reyes",Tier-1,IND05
+CLI_0170,"Gross, Lucero and Walters",Active,IND04
+CLI_0171,Lopez-Delgado,Active,IND03
+CLI_0172,Phillips PLC,Active,IND04
+CLI_0173,Barber Group,Strategic Enterprise,IND02
+CLI_0174,Hopkins-Hill,Legacy,IND04
+CLI_0175,Burton Ltd,Legacy,IND05
+CLI_0176,"Camacho, Rodriguez and Ho",Active,IND03
+CLI_0177,Rodriguez LLC,Strategic Enterprise,IND03
+CLI_0178,Kline-Davis,Active,IND04
+CLI_0179,Kirk-Durham,Legacy,IND01
+CLI_0180,Myers Group,Strategic Enterprise,IND04
+CLI_0181,Gutierrez Group,Legacy,IND03
+CLI_0182,"Jones, Mcdaniel and Brooks",Strategic Enterprise,IND05
+CLI_0183,Schultz-Hayes,Legacy,IND02
+CLI_0184,White Inc,Strategic Enterprise,IND04
+CLI_0185,Keller Ltd,Strategic Enterprise,IND02
+CLI_0186,"Bond, Wilson and Cooper",Strategic Enterprise,IND03
+CLI_0187,Webb-Mendez,Strategic Enterprise,IND02
+CLI_0188,"Smith, Boyd and Scott",Strategic Enterprise,IND02
+CLI_0189,Lee Inc,Legacy,IND02
+CLI_0190,"Johnson, Hunt and Hernandez",Active,IND01
+CLI_0191,Wilson-Robinson,Active,IND04
+CLI_0192,Taylor-Miller,Active,IND05
+CLI_0193,"Case, Adams and Olson",Active,IND04
+CLI_0194,Bailey PLC,Legacy,IND05
+CLI_0195,"Phillips, Mcgee and Simpson",Legacy,IND04
+CLI_0196,"Potts, Nielsen and Wright",Legacy,IND04
+CLI_0197,Mcdaniel Ltd,Strategic Enterprise,IND05
+CLI_0198,Hayden-Garcia,Legacy,IND04
+CLI_0199,"Collins, Bauer and Mckay",Strategic Enterprise,IND05
+CLI_0200,Hamilton-Griffin,Strategic Enterprise,IND01
+CLI_0201,"Burgess, Cabrera and Dean",Tier-1,IND04
+CLI_0202,"Reyes, Gonzalez and Gomez",Active,IND05
+CLI_0203,"Weiss, Cole and Preston",Legacy,IND04
+CLI_0204,"King, Ortiz and Munoz",Strategic Enterprise,IND04
+CLI_0205,"Clements, Moreno and Sanders",Active,IND05
+CLI_0206,White LLC,Tier-1,IND03
+CLI_0207,Gibbs-Howard,Active,IND01
+CLI_0208,Lewis LLC,Strategic Enterprise,IND04
+CLI_0209,Thomas-Edwards,Active,IND03
+CLI_0210,Flores Inc,Legacy,IND05
+CLI_0211,"Murphy, Marshall and Pope",Legacy,IND02
+CLI_0212,Hoffman Group,Legacy,IND02
+CLI_0213,Guzman-Rose,Legacy,IND04
+CLI_0214,Hoffman Ltd,Legacy,IND03
+CLI_0215,"Shah, Aguirre and Powers",Strategic Enterprise,IND04
+CLI_0216,"Stafford, Fisher and Avila",Tier-1,IND02
+CLI_0217,Li-Gonzalez,Tier-1,IND03
+CLI_0218,Lang Group,Legacy,IND04
+CLI_0219,Mooney Group,Legacy,IND04
+CLI_0220,Martinez and Sons,Strategic Enterprise,IND05
+CLI_0221,"Murphy, Reyes and Ray",Strategic Enterprise,IND05
+CLI_0222,Smith-Logan,Strategic Enterprise,IND01
+CLI_0223,"Travis, Buck and Mitchell",Legacy,IND02
+CLI_0224,Johnson-Ferguson,Tier-1,IND04
+CLI_0225,"Williams, Newman and Jones",Strategic Enterprise,IND02
+CLI_0226,Gallegos Group,Strategic Enterprise,IND04
+CLI_0227,"Turner, Stewart and Reed",Active,IND02
+CLI_0228,Hawkins LLC,Tier-1,IND04
+CLI_0229,Salazar-Long,Strategic Enterprise,IND05
+CLI_0230,"Riggs, Snyder and Davidson",Legacy,IND04
+CLI_0231,Cameron PLC,Legacy,IND03
+CLI_0232,Johnson Inc,Active,IND04
+CLI_0233,Taylor LLC,Active,IND02
+CLI_0234,"Ramsey, Perez and Miller",Active,IND02
+CLI_0235,"Barrera, Wood and Leach",Legacy,IND04
+CLI_0236,Villa Inc,Active,IND04
+CLI_0237,Ware-Williams,Legacy,IND03
+CLI_0238,Valentine Inc,Legacy,IND03
+CLI_0239,Murphy-Salazar,Legacy,IND03
+CLI_0240,Nelson-Jackson,Active,IND04
+CLI_0241,Silva Inc,Active,IND03
+CLI_0242,Flores and Sons,Strategic Enterprise,IND05
+CLI_0243,"Barron, Church and Gutierrez",Strategic Enterprise,IND03
+CLI_0244,Barnett-Boyd,Legacy,IND03
+CLI_0245,Lane Ltd,Tier-1,IND04
+CLI_0246,Bray-Morris,Active,IND04
+CLI_0247,"Webb, Davis and Miranda",Legacy,IND04
+CLI_0248,"Miller, Hansen and Salas",Strategic Enterprise,IND02
+CLI_0249,"Holland, Foley and Neal",Legacy,IND04
+CLI_0250,Bonilla Inc,Tier-1,IND01
+CLI_0251,Smith and Sons,Active,IND02
+CLI_0252,Cardenas-Lopez,Legacy,IND02
+CLI_0253,Peterson PLC,Legacy,IND03
+CLI_0254,"Palmer, Edwards and Blackburn",Legacy,IND03
+CLI_0255,"Gibson, Moore and Wagner",Tier-1,IND03
+CLI_0256,Robinson LLC,Tier-1,IND03
+CLI_0257,Hester-Parrish,Tier-1,IND04
+CLI_0258,"Harris, Ross and Jones",Strategic Enterprise,IND02
+CLI_0259,Martin-Parker,Active,IND02
+CLI_0260,"Wong, Thomas and Walter",Strategic Enterprise,IND03
+CLI_0261,"Rodriguez, Smith and Murray",Active,IND02
+CLI_0262,Johnson-Stanley,Strategic Enterprise,IND04
+CLI_0263,Bell-Wilson,Active,IND01
+CLI_0264,"Miller, Reynolds and Hernandez",Active,IND04
+CLI_0265,"Jordan, Cook and Alexander",Active,IND01
+CLI_0266,Davis-Wong,Tier-1,IND05
+CLI_0267,"Reilly, Lee and Lopez",Active,IND01
+CLI_0268,Wheeler PLC,Legacy,IND05
+CLI_0269,"Snyder, Hamilton and Maldonado",Strategic Enterprise,IND01
+CLI_0270,"Wright, Rodriguez and Wilson",Tier-1,IND03
+CLI_0271,Johnston and Sons,Strategic Enterprise,IND02
+CLI_0272,Patel LLC,Legacy,IND04
+CLI_0273,Andrade Ltd,Strategic Enterprise,IND02
+CLI_0274,"Sullivan, Long and Robinson",Strategic Enterprise,IND01
+CLI_0275,"Adams, Harris and Floyd",Active,IND03
+CLI_0276,Walsh-Mccarthy,Legacy,IND04
+CLI_0277,Gross-Davis,Tier-1,IND05
+CLI_0278,"Velez, Howell and Stevenson",Legacy,IND05
+CLI_0279,"Allen, Edwards and Jones",Tier-1,IND02
+CLI_0280,Cook Group,Strategic Enterprise,IND05
+CLI_0281,Rivers Ltd,Tier-1,IND05
+CLI_0282,Patterson-Smith,Tier-1,IND05
+CLI_0283,Ibarra-Jackson,Legacy,IND03
+CLI_0284,Wheeler Group,Tier-1,IND05
+CLI_0285,"Smith, Marks and Kennedy",Strategic Enterprise,IND01
+CLI_0286,Fuentes PLC,Tier-1,IND03
+CLI_0287,"Mooney, Conley and Fox",Legacy,IND04
+CLI_0288,Fischer Inc,Legacy,IND02
+CLI_0289,Torres Ltd,Legacy,IND01
+CLI_0290,Chavez-Navarro,Active,IND05
+CLI_0291,"Scott, Tucker and Diaz",Strategic Enterprise,IND03
+CLI_0292,Carey LLC,Legacy,IND04
+CLI_0293,"Cook, Holmes and Beck",Active,IND04
+CLI_0294,"Washington, Nelson and Stone",Tier-1,IND03
+CLI_0295,"Smith, Irwin and Chase",Active,IND04
+CLI_0296,"Mcknight, Howard and Johnson",Legacy,IND05
+CLI_0297,"Figueroa, Mcpherson and Howard",Strategic Enterprise,IND01
+CLI_0298,"Davis, Knapp and Gray",Legacy,IND02
+CLI_0299,Sheppard Ltd,Tier-1,IND05
+CLI_0300,"Gardner, Gaines and Archer",Tier-1,IND04
+CLI_0301,"Thompson, Lozano and Bailey",Strategic Enterprise,IND02
+CLI_0302,Myers-Butler,Tier-1,IND04
+CLI_0303,Parker-Williams,Strategic Enterprise,IND03
+CLI_0304,"Miles, Flowers and Martinez",Active,IND04
+CLI_0305,Knight-Sparks,Strategic Enterprise,IND05
+CLI_0306,Roberts-Montes,Legacy,IND03
+CLI_0307,Ho-Thomas,Legacy,IND04
+CLI_0308,"Hernandez, Levy and Hanson",Strategic Enterprise,IND01
+CLI_0309,"Martin, Tucker and Brown",Strategic Enterprise,IND02
+CLI_0310,Smith-Williams,Legacy,IND01
+CLI_0311,Petersen-Martinez,Tier-1,IND05
+CLI_0312,Torres-Jordan,Tier-1,IND03
+CLI_0313,"Flowers, Williams and Taylor",Tier-1,IND02
+CLI_0314,Glover-Shaw,Legacy,IND01
+CLI_0315,"Moore, Miller and Nelson",Strategic Enterprise,IND01
+CLI_0316,"Gonzalez, Richards and Miller",Active,IND02
+CLI_0317,Johnson LLC,Active,IND03
+CLI_0318,Cain Ltd,Legacy,IND02
+CLI_0319,Henderson-Rasmussen,Tier-1,IND01
+CLI_0320,Orozco LLC,Strategic Enterprise,IND01
+CLI_0321,"Collins, Elliott and Shelton",Strategic Enterprise,IND01
+CLI_0322,Brock-Taylor,Tier-1,IND02
+CLI_0323,Wright Group,Legacy,IND04
+CLI_0324,"Gonzalez, Torres and Evans",Legacy,IND04
+CLI_0325,"Murray, White and Patton",Legacy,IND04
+CLI_0326,Davis-Rose,Active,IND03
+CLI_0327,"Edwards, Donovan and Marquez",Active,IND02
+CLI_0328,Gomez-Owens,Active,IND03
+CLI_0329,Murray-Gaines,Tier-1,IND01
+CLI_0330,Bernard Group,Tier-1,IND02
+CLI_0331,Campos PLC,Strategic Enterprise,IND03
+CLI_0332,Buchanan-Carpenter,Tier-1,IND01
+CLI_0333,Martinez-Daniels,Active,IND02
+CLI_0334,"Rich, Brown and Bruce",Tier-1,IND04
+CLI_0335,Powell Inc,Strategic Enterprise,IND01
+CLI_0336,Aguirre-Golden,Strategic Enterprise,IND04
+CLI_0337,Combs-Miller,Active,IND05
+CLI_0338,Gallegos-Santos,Strategic Enterprise,IND04
+CLI_0339,Wheeler-Short,Tier-1,IND03
+CLI_0340,"Olson, Rivera and Brown",Legacy,IND02
+CLI_0341,"Richards, Dixon and Love",Active,IND05
+CLI_0342,"Harris, Thomas and Yang",Active,IND03
+CLI_0343,Taylor-Jacobson,Tier-1,IND03
+CLI_0344,"Phelps, Turner and Collins",Strategic Enterprise,IND03
+CLI_0345,Shaffer PLC,Active,IND02
+CLI_0346,"Gonzalez, Jones and Hernandez",Active,IND02
+CLI_0347,Meyer and Sons,Tier-1,IND03
+CLI_0348,Garcia Inc,Active,IND02
+CLI_0349,"Wallace, Brown and Martinez",Legacy,IND05
+CLI_0350,Webb-White,Active,IND04
+CLI_0351,Skinner PLC,Strategic Enterprise,IND01
+CLI_0352,Underwood-Maldonado,Active,IND05
+CLI_0353,"Williamson, Reynolds and Fields",Tier-1,IND05
+CLI_0354,Thomas Ltd,Strategic Enterprise,IND03
+CLI_0355,"Allen, Hunt and Lyons",Active,IND02
+CLI_0356,Alvarez LLC,Strategic Enterprise,IND04
+CLI_0357,Contreras-Haley,Active,IND05
+CLI_0358,Richardson-Hill,Legacy,IND01
+CLI_0359,Wolfe-Rodriguez,Active,IND03
+CLI_0360,Li-Hernandez,Strategic Enterprise,IND05
+CLI_0361,Bryant-Elliott,Active,IND02
+CLI_0362,Carpenter Inc,Tier-1,IND02
+CLI_0363,"Santos, Sandoval and Wallace",Legacy,IND05
+CLI_0364,Estes-Mcdonald,Legacy,IND04
+CLI_0365,"Ellis, Smith and Moore",Strategic Enterprise,IND01
+CLI_0366,"Foley, Gordon and Bailey",Tier-1,IND03
+CLI_0367,"Warren, Palmer and Thompson",Strategic Enterprise,IND03
+CLI_0368,Bell Ltd,Active,IND04
+CLI_0369,"Morgan, Espinoza and Buchanan",Tier-1,IND05
+CLI_0370,Glover-Barrett,Legacy,IND05
+CLI_0371,Jones-Franco,Tier-1,IND02
+CLI_0372,Bennett-Ruiz,Strategic Enterprise,IND05
+CLI_0373,"White, Erickson and Hunter",Legacy,IND03
+CLI_0374,"Fox, Anderson and Nguyen",Tier-1,IND03
+CLI_0375,"Bailey, Williamson and Powell",Strategic Enterprise,IND01
+CLI_0376,Johnson Ltd,Strategic Enterprise,IND04
+CLI_0377,Hall Ltd,Legacy,IND03
+CLI_0378,Porter Ltd,Legacy,IND04
+CLI_0379,Morris-Hall,Active,IND05
+CLI_0380,"Flynn, Garcia and Gilmore",Tier-1,IND02
+CLI_0381,"Stafford, Campos and Fisher",Active,IND05
+CLI_0382,Brown LLC,Legacy,IND05
+CLI_0383,Johnson Ltd,Strategic Enterprise,IND03
+CLI_0384,Alexander LLC,Active,IND05
+CLI_0385,"Welch, Johnson and Thompson",Tier-1,IND02
+CLI_0386,Hale Group,Tier-1,IND05
+CLI_0387,Zhang PLC,Strategic Enterprise,IND05
+CLI_0388,"Gonzalez, King and Kim",Legacy,IND03
+CLI_0389,Perez-Harmon,Tier-1,IND03
+CLI_0390,Cervantes-Stokes,Active,IND01
+CLI_0391,Miller Inc,Active,IND01
+CLI_0392,"Moyer, Davis and Johnson",Strategic Enterprise,IND02
+CLI_0393,Barry LLC,Active,IND02
+CLI_0394,Carroll-Lin,Active,IND04
+CLI_0395,Lopez-Blair,Strategic Enterprise,IND01
+CLI_0396,"May, Crawford and Collier",Active,IND05
+CLI_0397,"Carey, Mason and Kelly",Tier-1,IND04
+CLI_0398,"Castaneda, Solis and Gonzales",Legacy,IND01
+CLI_0399,"Bennett, Jones and Miller",Legacy,IND02
+CLI_0400,"Evans, Wilson and Hall",Active,IND01
+CLI_0401,"Fernandez, Johnson and Nicholson",Strategic Enterprise,IND04
+CLI_0402,Nielsen-King,Active,IND04
+CLI_0403,"Howard, Brennan and Moore",Active,IND03
+CLI_0404,Jones-Johnston,Tier-1,IND03
+CLI_0405,"Frederick, Porter and Ross",Active,IND05
+CLI_0406,Gardner Inc,Legacy,IND05
+CLI_0407,"Ruiz, Lowery and Baker",Active,IND01
+CLI_0408,Johnson Group,Legacy,IND01
+CLI_0409,Gonzalez-Barron,Strategic Enterprise,IND05
+CLI_0410,Taylor PLC,Active,IND01
+CLI_0411,"Rivera, Todd and Gaines",Strategic Enterprise,IND05
+CLI_0412,Young Inc,Tier-1,IND02
+CLI_0413,"Strong, Warner and Cannon",Strategic Enterprise,IND05
+CLI_0414,Reed Inc,Strategic Enterprise,IND05
+CLI_0415,George-Salazar,Strategic Enterprise,IND05
+CLI_0416,Clay Group,Tier-1,IND01
+CLI_0417,Nelson Inc,Legacy,IND04
+CLI_0418,Johnson PLC,Tier-1,IND01
+CLI_0419,Santos Group,Strategic Enterprise,IND02
+CLI_0420,Turner-Horn,Tier-1,IND05
+CLI_0421,Smith Inc,Legacy,IND02
+CLI_0422,Ayala and Sons,Tier-1,IND03
+CLI_0423,"Franklin, Gray and Sutton",Legacy,IND05
+CLI_0424,Tran Inc,Legacy,IND03
+CLI_0425,Cannon-Dominguez,Tier-1,IND04
+CLI_0426,Miles-Dunn,Legacy,IND05
+CLI_0427,Kim PLC,Strategic Enterprise,IND05
+CLI_0428,Bell-Cooper,Strategic Enterprise,IND04
+CLI_0429,Allen Inc,Legacy,IND03
+CLI_0430,"Smith, Gutierrez and Goodwin",Tier-1,IND04
+CLI_0431,"Bradley, Ritter and Smith",Tier-1,IND01
+CLI_0432,"Wright, Brown and Brown",Active,IND03
+CLI_0433,White-Williams,Active,IND05
+CLI_0434,Morrison-Zamora,Strategic Enterprise,IND03
+CLI_0435,Anderson-Sanders,Active,IND03
+CLI_0436,"Martinez, Jones and Wright",Strategic Enterprise,IND02
+CLI_0437,"Harris, Thornton and Li",Legacy,IND01
+CLI_0438,Wallace LLC,Legacy,IND05
+CLI_0439,Deleon-Carter,Strategic Enterprise,IND01
+CLI_0440,"Sanchez, Orozco and Flores",Active,IND04
+CLI_0441,"Gordon, Brown and Mccullough",Legacy,IND02
+CLI_0442,"Sampson, Tucker and Miller",Strategic Enterprise,IND03
+CLI_0443,Skinner PLC,Legacy,IND05
+CLI_0444,Torres PLC,Strategic Enterprise,IND02
+CLI_0445,Martinez Ltd,Legacy,IND03
+CLI_0446,Johnson and Sons,Active,IND05
+CLI_0447,"Alexander, Duran and Benton",Tier-1,IND05
+CLI_0448,Porter Inc,Strategic Enterprise,IND01
+CLI_0449,Ramirez-Cruz,Legacy,IND04
+CLI_0450,Brown PLC,Strategic Enterprise,IND04
+CLI_0451,Simpson-Roy,Active,IND05
+CLI_0452,Wallace-Walker,Legacy,IND01
+CLI_0453,Lopez-Jordan,Tier-1,IND01
+CLI_0454,Guerrero Inc,Active,IND03
+CLI_0455,"Hines, Pineda and Kent",Legacy,IND04
+CLI_0456,Livingston-Solomon,Tier-1,IND01
+CLI_0457,"Robinson, Johnson and Swanson",Strategic Enterprise,IND05
+CLI_0458,"Hamilton, Patterson and Daniel",Active,IND04
+CLI_0459,"Goodwin, Aguirre and Tran",Active,IND03
+CLI_0460,"Randolph, Mitchell and Ritter",Active,IND03
+CLI_0461,"Ford, Armstrong and Carroll",Strategic Enterprise,IND03
+CLI_0462,"Green, Horne and Mcdonald",Strategic Enterprise,IND02
+CLI_0463,Anderson Inc,Active,IND04
+CLI_0464,Marsh-Tapia,Tier-1,IND05
+CLI_0465,Lutz PLC,Active,IND02
+CLI_0466,Morgan-Foster,Tier-1,IND03
+CLI_0467,"Hill, Adams and King",Tier-1,IND02
+CLI_0468,"Patrick, Franklin and Martinez",Strategic Enterprise,IND03
+CLI_0469,"Guerrero, Huff and Abbott",Active,IND04
+CLI_0470,Ford-Gonzales,Active,IND05
+CLI_0471,Johnson-Howard,Tier-1,IND03
+CLI_0472,"Richard, Robinson and Brown",Active,IND04
+CLI_0473,Hill PLC,Tier-1,IND02
+CLI_0474,"Edwards, Brown and White",Strategic Enterprise,IND04
+CLI_0475,Green-Simpson,Strategic Enterprise,IND04
+CLI_0476,Mccoy and Sons,Tier-1,IND05
+CLI_0477,"Douglas, Hall and Pena",Strategic Enterprise,IND05
+CLI_0478,Cohen Group,Strategic Enterprise,IND02
+CLI_0479,"Stewart, Tran and Perez",Active,IND03
+CLI_0480,"Braun, Hester and Smith",Tier-1,IND03
+CLI_0481,Fernandez-Williams,Active,IND01
+CLI_0482,Bailey Inc,Tier-1,IND04
+CLI_0483,"Wallace, Dixon and Young",Legacy,IND03
+CLI_0484,Hudson-Calderon,Strategic Enterprise,IND03
+CLI_0485,"Perry, May and Liu",Legacy,IND05
+CLI_0486,Johnson PLC,Active,IND03
+CLI_0487,Rogers-Russell,Strategic Enterprise,IND03
+CLI_0488,"Brooks, Dunlap and Carter",Tier-1,IND05
+CLI_0489,Martin Inc,Strategic Enterprise,IND04
+CLI_0490,Conrad-Buck,Active,IND02
+CLI_0491,Rodriguez and Sons,Strategic Enterprise,IND03
+CLI_0492,Dixon-Norman,Strategic Enterprise,IND01
+CLI_0493,"Logan, Marquez and Case",Active,IND01
+CLI_0494,Rivas-Johnson,Strategic Enterprise,IND05
+CLI_0495,"Hernandez, Farmer and Banks",Strategic Enterprise,IND03
+CLI_0496,Benjamin and Sons,Active,IND03
+CLI_0497,"Gordon, Andrews and Kelley",Active,IND03
+CLI_0498,Ryan-Martinez,Tier-1,IND04
+CLI_0499,"Yates, Lawson and Hopkins",Active,IND03
+CLI_0500,"Alexander, Adams and Huff",Strategic Enterprise,IND05

@@ -1,0 +1,36 @@
+Education_ID,Degree_Level,Field_Of_Study
+EDU_001,High School,Computer Science
+EDU_002,High School,Data Science
+EDU_003,High School,Human Resources
+EDU_004,High School,Business Admin
+EDU_005,High School,Finance
+EDU_006,High School,Information Systems
+EDU_007,High School,Psychology
+EDU_008,Associate,Computer Science
+EDU_009,Associate,Data Science
+EDU_010,Associate,Human Resources
+EDU_011,Associate,Business Admin
+EDU_012,Associate,Finance
+EDU_013,Associate,Information Systems
+EDU_014,Associate,Psychology
+EDU_015,Bachelor,Computer Science
+EDU_016,Bachelor,Data Science
+EDU_017,Bachelor,Human Resources
+EDU_018,Bachelor,Business Admin
+EDU_019,Bachelor,Finance
+EDU_020,Bachelor,Information Systems
+EDU_021,Bachelor,Psychology
+EDU_022,Master,Computer Science
+EDU_023,Master,Data Science
+EDU_024,Master,Human Resources
+EDU_025,Master,Business Admin
+EDU_026,Master,Finance
+EDU_027,Master,Information Systems
+EDU_028,Master,Psychology
+EDU_029,Doctorate,Computer Science
+EDU_030,Doctorate,Data Science
+EDU_031,Doctorate,Human Resources
+EDU_032,Doctorate,Business Admin
+EDU_033,Doctorate,Finance
+EDU_034,Doctorate,Information Systems
+EDU_035,Doctorate,Psychology

@@ -1,0 +1,6 @@
+Industry_ID,Industry_Name,Risk_Profile,Regulatory_Standard
+IND01,Banking & FinTech,High-Strict,PCI-DSS / SOX
+IND02,Healthcare & Life Sciences,High-Privacy,HIPAA / FDA
+IND03,Retail & E-Commerce,Moderate,GDPR / CCPA
+IND04,Technology & SaaS,Standard,SOC2
+IND05,Internal Corporate Ops,Low,Internal Standard
