@@ -17,7 +17,7 @@ This project provides a multi-year analysis of corporate payroll expenditure acr
 
 ## Dashboard Preview
 
-![Payroll Overview Dashboard](images/Payroll_Overview_Dashboard.png)
+![Payroll Overview Dashboard](Images/Payroll_Overview_Dashboard.png)
 *Figure 1: Main Payroll Overview Dashboard interface in Power BI.*
 
 ---
